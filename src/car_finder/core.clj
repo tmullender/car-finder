@@ -6,6 +6,25 @@
 
 (def YEARS #{2010 2011 2012 2013 2014})
 
+(defn acceleration-and-efficiency [spec]
+  (let [
+        ]
+    (and
+      (< (Float/parseFloat (re-find #"\d+" (str (spec :0-60mph) "+11"))) 11)
+      (>= (Float/parseFloat (re-find #"\d+" (str (spec :fuel_economy) "+44"))) 45)
+      )
+    )
+  )
+
+(defn manual-seven-seaters [details]
+  (and
+    (< 5 (Integer/parseInt (details "Seats")))
+    (= (details "Transmission") "Manual")
+    ))
+
+(defn years-overlap [spec]
+  (not-empty (intersection YEARS (spec "Years"))))
+
 (defn write-csv [details]
   (let [headers (keys (first details))
         data (map #(map %1 headers) details)]
@@ -17,7 +36,7 @@
   (->> file
        slurp
        read-string
-       (map (partial apply parkers/get-model-specs))
+       (map (partial apply parkers/fetch-model-specs [years-overlap acceleration-and-efficiency manual-seven-seaters]))
        flatten
        write-csv
        ))
@@ -26,7 +45,7 @@
   (->> (parkers/get-manufacturers)
       (map parkers/get-models)
       flatten
-      (map #(parkers/get-model-specs (list %1) YEARS))
+      (map (partial parkers/fetch-model-specs [years-overlap acceleration-and-efficiency manual-seven-seaters]))
       flatten
       write-csv
       ))

@@ -37,46 +37,36 @@
                              [:section.specs-detail-page__section :td]})
               remove-invalid-headers
               html/texts
-              )))
+              ))
+  )
 
-(defn get-available-engines-for-spec [spec]
-  (apply hash-map (html/select (get-page (:link spec)) [:table.specs-table :tbody :tr])))
+(defn convert-engines-to-map [engine links]
+  (let [values (map #(->> %1 html/text string/trim)  (html/select engine [:td]))]
+  [(zipmap ["+" :engine :power :0-60mph :fuel_economy :insurance_group :road_tax :length] values) (html/select links [:a])]))
 
-(defn get-full-specs [engine-spec]
-  (map convert-link-to-details (html/select (second engine-spec) [:a])))
-
-(defn acceleration-and-efficiency [spec]
-  (let [values (map #(->> %1 html/text string/trim)  (html/select (first spec) [:td]))]
-    (println values)
-    (and
-      (< (Float/parseFloat (re-find #"\d+" (str (nth values 3) "+11"))) 11)
-      (>= (Float/parseFloat (re-find #"\d+" (str (nth values 4) "+44"))) 45)
-      )
+(defn get-available-engines-for-model [spec]
+  (let [engines (html/select (get-page (:link spec)) [:table.specs-table :tbody :tr.specs-table__engine])
+        links (html/select (get-page (:link spec)) [:table.specs-table :tbody :tr.specs-table__derivatives])]
+    (map convert-engines-to-map engines links)
     )
   )
 
-(defn manual-seven-seaters [details]
-  (and
-    (< 5 (Integer/parseInt (details "Seats")))
-    (= (details "Transmission") "Manual")
-    ))
+(defn get-full-specs [engine-spec]
+  (map convert-link-to-details (second engine-spec)))
 
-(defn years-overlap [years spec]
-  (println spec)
-  (not-empty (intersection years (spec :years))))
 
-(defn get-model-specs
-  ([manufacturer model years]
-    (get-model-specs (html/select (get-page manufacturer model) [:a.panel__primary-link]) years))
-  ([links years]
+(defn fetch-model-specs
+  ([manufacturer model filters]
+    (fetch-model-specs (html/select (get-page manufacturer model) [:a.panel__primary-link]) filters))
+  ([links [model-filter engine-filter spec-filter]]
     (->> links
          (map convert-link-to-spec)
-         (filter (partial years-overlap years))
-         (map get-available-engines-for-spec)
+         (filter model-filter)
+         (map get-available-engines-for-model)
          (into {})
-         (filter acceleration-and-efficiency)
+         (filter engine-filter)
          get-full-specs
-         (filter manual-seven-seaters)
+         (filter spec-filter)
          )
     ))
 
