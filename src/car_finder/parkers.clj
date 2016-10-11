@@ -1,6 +1,5 @@
 (ns car-finder.parkers
   (:require [net.cgrand.enlive-html :as html]
-            [clojure.set :refer :all]
             [clojure.string :as string])
   (:import (java.net URL)))
 
@@ -41,14 +40,17 @@
   )
 
 (defn convert-engines-to-map [engine links]
-  (let [values (map #(->> %1 html/text string/trim)  (html/select engine [:td]))]
-  [(zipmap ["+" :engine :power :0-60mph :fuel_economy :insurance_group :road_tax :length] values) (html/select links [:a])]))
+  (let [values (map #(->> %1 html/text string/trim)  (html/select engine [:td]))
+        details (zipmap ["+" :engine :power :0-60mph :fuel_economy :insurance_group :road_tax :length] values)
+        links (html/select links [:a])]
+    (hash-map  details links)
+  )
+  )
 
 (defn get-available-engines-for-model [spec]
   (let [engines (html/select (get-page (:link spec)) [:table.specs-table :tbody :tr.specs-table__engine])
         links (html/select (get-page (:link spec)) [:table.specs-table :tbody :tr.specs-table__derivatives])]
-    (map convert-engines-to-map engines links)
-    )
+    (map convert-engines-to-map engines links))
   )
 
 (defn get-full-specs [engine-spec]
@@ -57,13 +59,16 @@
 
 (defn fetch-model-specs
   ([manufacturer model filters]
-    (fetch-model-specs (html/select (get-page manufacturer model) [:a.panel__primary-link]) filters))
-  ([links [model-filter engine-filter spec-filter]]
-    (->> links
+    (-> (get-page manufacturer model)
+        (html/select  [:a.panel__primary-link])
+        (map (partial fetch-model-specs filters)))
+    )
+  ([[model-filter engine-filter spec-filter] link]
+    (->> (list link)
          (map convert-link-to-spec)
          (filter model-filter)
          (map get-available-engines-for-model)
-         (into {})
+         flatten
          (filter engine-filter)
          get-full-specs
          (filter spec-filter)
