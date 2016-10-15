@@ -1,7 +1,10 @@
 (ns car-finder.parkers
   (:require [net.cgrand.enlive-html :as html]
             [clojure.string :as string])
-  (:import (java.net URL)))
+  (:import (java.net URL))
+  ;(:import (java.io File))
+  )
+
 
 (defn get-page
   ([manufacturer model]
@@ -9,12 +12,12 @@
      )
   ([path]
     (println path)
-    (html/html-resource
-      (URL. (str "http://www.parkers.co.uk" path))))
+    (html/html-resource (URL. (str "http://www.parkers.co.uk" path)))
+   ;(html/html-resource (File. (str "test/resources" path)))
+    )
   )
 
 (defn convert-link-to-spec [link]
-  (println link)
   (let [content (re-find #"^(.+) \((\d+) -? ?(\d*).*\) Specifications$" (first (:content link)))
         start (Integer/parseInt (nth content 2))
         end (if (empty? (last content)) 2018 (Integer/parseInt (last content)))]
@@ -24,7 +27,6 @@
   (filter #(nil? (get-in %1 [:attrs :colspan])) tags))
 
 (defn to-map [details]
-  (println details)
   (if (empty? details) {"Seats" "0"} (apply hash-map (conj details "Name"))))
 
 (defn convert-link-to-details [link]
@@ -43,18 +45,19 @@
   (let [values (map #(->> %1 html/text string/trim)  (html/select engine [:td]))
         details (zipmap ["+" :engine :power :0-60mph :fuel_economy :insurance_group :road_tax :length] values)
         links (html/select links [:a])]
-    (hash-map  details links)
+    (hash-map details links)
   )
   )
 
 (defn get-available-engines-for-model [spec]
   (let [engines (html/select (get-page (:link spec)) [:table.specs-table :tbody :tr.specs-table__engine])
         links (html/select (get-page (:link spec)) [:table.specs-table :tbody :tr.specs-table__derivatives])]
-    (map convert-engines-to-map engines links))
+    (map convert-engines-to-map engines links)
   )
+)
 
 (defn get-full-specs [engine-spec]
-  (map convert-link-to-details (second engine-spec)))
+  (map convert-link-to-details (first (vals engine-spec))))
 
 
 (defn fetch-model-specs
@@ -70,7 +73,8 @@
          (map get-available-engines-for-model)
          flatten
          (filter engine-filter)
-         get-full-specs
+         (map get-full-specs)
+         flatten
          (filter spec-filter)
          )
     ))

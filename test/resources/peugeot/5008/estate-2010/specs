@@ -1,0 +1,4515 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+<title>Peugeot 5008 Specs</title>
+</head>
+
+<body class=" " data-advert-provider="Dfp">
+	<span class="screen-size-detector"></span>
+
+
+	<div class="off-canvas-wrap" data-offcanvas="">
+		<div class="inner-wrap">
+
+			<div class="site-root">
+				<header class="site-header clearfix" aria-label="Site Header">
+					<h4 class="show-for-sr">Parkers.co.uk &ndash; For The Smarter Car Buyer</h4>
+					<div class="site-header-mobile tab-bar" data-f-topbar="true">
+    <div class="left-small">
+        <a href="/" class="site-header-mobile__icon--home site-header-mobile__icon fi-home">
+            <span class="site-header-mobile__icon__text show-for-sr">Home</span>
+        </a>
+    </div>
+    <div class="middle tab-bar-section">
+        <a href="/" class="site-header-mobile__title">Parkers.co.uk</a>
+    </div>
+    <div class="right-small">
+        <a href="#off-canvas-navigation" class="site-header-mobile__icon--menu site-header-mobile__icon menu-icon right-off-canvas-toggle">
+            <span class="site-header-mobile__icon__text">Menu</span>
+        </a>
+    </div>
+</div>
+					
+<div class="site-header-desktop">
+	<div class="site-header-desktop__inner">
+		<a href="/" class="site-header-desktop__logo" title="Home">
+			<span class="site-header-desktop__logo__icon fi-home"></span>
+		</a>
+		<div class="site-search-desktop site-search" role="search" aria-label="Site Search - Desktop">
+<form action="http://www.parkers.co.uk/search/" method="get" class="site-search__form">
+	<div class="row collapse">
+		<div class="column small-10">
+			<label for="siteSearchDesktop" class="show-for-sr">Site search:</label>
+			<input id="siteSearchDesktop" type="search" name="query" placeholder="Search site ..." class="site-search-desktop__input site-search__input" />
+		</div>
+		<div class="column small-2">
+			<input type="submit" value="Go" class="site-search-desktop__button site-search__button button postfix" />
+		</div>
+	</div>
+</form>
+		</div>
+		<div class="site-nav">
+			<a href="/cars" class="site-nav__link site-nav__link--cars site-nav__link--active">
+				<span class="site-nav__link__icon icon-50x50-car-white"></span>
+				<span class="site-nav__link__label">Cars</span>
+			</a>
+			<a href="/vans" class="site-nav__link site-nav__link--vans">
+				<span class="site-nav__link__icon icon-50x50-van-white"></span>
+				<span class="site-nav__link__label">Vans</span>
+			</a>
+			<a href="/my-parkers" class="site-nav__link site-nav__link--my-parkers">
+				<span class="site-nav__link__icon icon-50x50-driver-white"></span>
+				<span class="site-nav__link__label">My Parkers</span>
+				
+			</a>
+			<a href="/site-search" class="site-nav__link site-nav__link--site-search hide-for-xlarge-up">
+				<div class="site-nav__link__icon site-nav__link--site-search__icon icon-50x50-magnifying-glass-white"></div>
+				<div class="site-nav__link__label site-nav__link--site-search__label">Site Search</div>
+			</a>
+		</div>
+	</div>
+	<div class="site-search-tablet site-search" role="search" aria-label="Site Search - Tablet">
+		<div class="site-search-tablet__inner">
+<form action="http://www.parkers.co.uk/search/" method="get" class="site-search__form">
+	<div class="row collapse">
+		<div class="column small-10">
+			<label for="siteSearchTablet" class="show-for-sr">Site search:</label>
+			<input id="siteSearchTablet" type="search" name="query" placeholder="Enter something to search for ..." class="site-search-tablet__input site-search__input" />
+		</div>
+		<div class="column small-2">
+			<input type="submit" value="Go" class="site-search-tablet__button site-search__button button postfix" />
+		</div>
+	</div>
+</form>
+		</div>
+	</div>
+<nav class="primary-nav-desktop" aria-label="Primary Navigation Desktop">
+	<h2 class="show-for-sr">Primary Navigation Desktop</h2>
+	<a href="#" class="primary-nav-desktop__menu__link primary-nav-desktop__menu__link--more-menu">
+		More <span><span class="show-for-xlarge-up">from Parkers</span></span>
+	</a>
+
+	<ul class="primary-nav-desktop__menu">
+        <li class="primary-nav-desktop__menu__item">
+            <a href="/car-reviews/" class="primary-nav-desktop__menu__link primary-nav-desktop__menu__link--has-sub-menu" target="" >Reviews</a>
+                <ul class="primary-nav-desktop__sub-menu stack">
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="/car-reviews/" class="primary-nav-desktop__sub-menu__link" target="" >New car reviews</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="/car-reviews/used/" class="primary-nav-desktop__sub-menu__link" target="" >Used car reviews</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="/owner-reviews/" class="primary-nav-desktop__sub-menu__link" target="" >Owners reviews</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/reviews/living-with-it/" class="primary-nav-desktop__sub-menu__link" target="" >Long term tests</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="/car-specs/" class="primary-nav-desktop__sub-menu__link" target="" >Facts and figures</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/reviews/road-tests/" class="primary-nav-desktop__sub-menu__link" target="" >Road tests</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/advice/top-10s/" class="primary-nav-desktop__sub-menu__link" target="" >Best cars</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/advice/coming-soon/" class="primary-nav-desktop__sub-menu__link" target="" >Cars coming soon</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/reviews/car-info-packs/" class="primary-nav-desktop__sub-menu__link" target="" >Car info packs</a>
+                        </li>
+                </ul>
+        </li>
+        <li class="primary-nav-desktop__menu__item">
+            <a href="/car-specs/" class="primary-nav-desktop__menu__link " target="" >Specs</a>
+        </li>
+        <li class="primary-nav-desktop__menu__item">
+            <a href="http://www.parkers.co.uk/cars/prices/" class="primary-nav-desktop__menu__link primary-nav-desktop__menu__link--has-sub-menu" target="" >Valuations</a>
+                <ul class="primary-nav-desktop__sub-menu stack">
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/prices/used/" class="primary-nav-desktop__sub-menu__link" target="" >Used car valuations</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/prices/new/" class="primary-nav-desktop__sub-menu__link" target="" >New car prices</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/prices/iphone-application/" class="primary-nav-desktop__sub-menu__link" target="" >Parkers iPhone app</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/prices/car-price-guide/" class="primary-nav-desktop__sub-menu__link" target="" >Parkers price guide</a>
+                        </li>
+                </ul>
+        </li>
+        <li class="primary-nav-desktop__menu__item">
+            <a href="/cars-for-sale/" class="primary-nav-desktop__menu__link primary-nav-desktop__menu__link--has-sub-menu" target="" >For Sale</a>
+                <ul class="primary-nav-desktop__sub-menu stack">
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="/cars-for-sale/new/" class="primary-nav-desktop__sub-menu__link" target="" >New cars for Sale</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="/cars-for-sale/used/" class="primary-nav-desktop__sub-menu__link" target="" >Used cars for Sale</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/for-sale/car-deals/" class="primary-nav-desktop__sub-menu__link" target="" >Best car deals</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="https://parkers.hpicheck.com/" class="primary-nav-desktop__sub-menu__link" target="_blank"  rel=nofollow>Car history check</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="https://secure.parkers.co.uk/cars/for-sale/sell-my-car/" class="primary-nav-desktop__sub-menu__link" target="" >Sell my car</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/leasing/" class="primary-nav-desktop__sub-menu__link" target="" >Car leasing</a>
+                        </li>
+                </ul>
+        </li>
+        <li class="primary-nav-desktop__menu__item">
+            <a href="http://www.parkers.co.uk/cars/reviews/compare-cars/" class="primary-nav-desktop__menu__link primary-nav-desktop__menu__link--has-sub-menu" target="" >Buying tools</a>
+                <ul class="primary-nav-desktop__sub-menu stack">
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/reviews/compare-cars/" class="primary-nav-desktop__sub-menu__link" target="" >Car comparison</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="https://parkers.hpicheck.com/" class="primary-nav-desktop__sub-menu__link" target=""  rel=nofollow>Car history check</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/insurance/car-insurance-groups/" class="primary-nav-desktop__sub-menu__link" target="" >Insurance groups</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/company-cars/tax-calculator/" class="primary-nav-desktop__sub-menu__link" target="" >Company car tax calculator</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/advice/road-tax-guide/" class="primary-nav-desktop__sub-menu__link" target="" >Car tax calculator</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/prices/iphone-application/" class="primary-nav-desktop__sub-menu__link" target="" >iPhone app</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="/motormatch/" class="primary-nav-desktop__sub-menu__link" target="" >MotorMatch</a>
+                        </li>
+                </ul>
+        </li>
+        <li class="primary-nav-desktop__menu__item">
+            <a href="http://www.parkers.co.uk/cars/finance/" class="primary-nav-desktop__menu__link primary-nav-desktop__menu__link--has-sub-menu" target="" >Finance</a>
+                <ul class="primary-nav-desktop__sub-menu stack">
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/finance/car-finance-advice/" class="primary-nav-desktop__sub-menu__link" target="" >Car finance advice</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="https://partner.creditplus.co.uk/?src=parkers" class="primary-nav-desktop__sub-menu__link" target=""  rel=nofollow>Get finance quote</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/finance/" class="primary-nav-desktop__sub-menu__link" target="" >Business car finance</a>
+                        </li>
+                </ul>
+        </li>
+        <li class="primary-nav-desktop__menu__item">
+            <a href="http://www.parkers.co.uk/cars/leasing/" class="primary-nav-desktop__menu__link primary-nav-desktop__menu__link--has-sub-menu" target="" >Leasing</a>
+                <ul class="primary-nav-desktop__sub-menu stack">
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/leasing/search/" class="primary-nav-desktop__sub-menu__link" target="" >Personal car leasing</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/leasing/search/_/lease-type/business/" class="primary-nav-desktop__sub-menu__link" target="" >Business car leasing</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/advice/" class="primary-nav-desktop__sub-menu__link" target="" >Help &amp; advice</a>
+                        </li>
+                </ul>
+        </li>
+        <li class="primary-nav-desktop__menu__item">
+            <a href="http://www.parkers.co.uk/cars/insurance/" class="primary-nav-desktop__menu__link primary-nav-desktop__menu__link--has-sub-menu" target="" >Insurance</a>
+                <ul class="primary-nav-desktop__sub-menu stack">
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/insurance/" class="primary-nav-desktop__sub-menu__link" target="" >Compare car insurance</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/advice/" class="primary-nav-desktop__sub-menu__link" target="" >Help &amp; advice</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/insurance/car-insurance-groups/" class="primary-nav-desktop__sub-menu__link" target="" >Insurance groups</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/insurance/warranty/" class="primary-nav-desktop__sub-menu__link" target="" >Car warranty</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/insurance/gap-insurance/" class="primary-nav-desktop__sub-menu__link" target="" >Gap insurance</a>
+                        </li>
+                </ul>
+        </li>
+        <li class="primary-nav-desktop__menu__item">
+            <a href="http://www.parkers.co.uk/cars/advice/" class="primary-nav-desktop__menu__link primary-nav-desktop__menu__link--has-sub-menu" target="" >Advice</a>
+                <ul class="primary-nav-desktop__sub-menu stack">
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/advice/" class="primary-nav-desktop__sub-menu__link" target="" >General advice</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/advice/top-10s/" class="primary-nav-desktop__sub-menu__link" target="" >Best cars</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/advice/buying/" class="primary-nav-desktop__sub-menu__link" target="" >Car buying</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/cars/advice/road-tax-guide/" class="primary-nav-desktop__sub-menu__link" target="" >Car tax calculator</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="/cars/finance/car-finance-advice/" class="primary-nav-desktop__sub-menu__link" target="" >Car finance advice</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/company-cars/news-and-advice/" class="primary-nav-desktop__sub-menu__link" target="" >Company cars advice</a>
+                        </li>
+                </ul>
+        </li>
+        <li class="primary-nav-desktop__menu__item">
+            <a href="http://www.parkers.co.uk/company-cars/" class="primary-nav-desktop__menu__link primary-nav-desktop__menu__link--has-sub-menu" target="" >Company cars</a>
+                <ul class="primary-nav-desktop__sub-menu stack">
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/company-cars/news-and-advice/latest-news/" class="primary-nav-desktop__sub-menu__link" target="" >News</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/company-cars/news-and-advice/advice/" class="primary-nav-desktop__sub-menu__link" target="" >Advice</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/company-cars/news-and-advice/" class="primary-nav-desktop__sub-menu__link" target="" >Best company cars</a>
+                        </li>
+                        <li class="primary-nav-desktop__sub-menu__item">
+                            <a href="http://www.parkers.co.uk/company-cars/news-and-advice/" class="primary-nav-desktop__sub-menu__link" target="" >Tax advice</a>
+                        </li>
+                </ul>
+        </li>
+        <li class="primary-nav-desktop__menu__item">
+            <a href="http://winit.parkers.co.uk/" class="primary-nav-desktop__menu__link " target="" >Win</a>
+        </li>
+</ul>
+    <!-- TODO: Render vans navigation instead if url starts /vans/ -->
+
+	<div class="more-menu-desktop">
+		<h3 class="more-menu-desktop__heading">More from Parkers...</h3>
+		<ul class="more-menu-desktop__menu inline"></ul>
+	</div>
+</nav>
+</div>
+
+				</header>
+
+				<div class="site-content ">
+					<div class="site-content__top">
+
+						<div class="top-ad__sticky-wrapper">
+	<div class="top-ad__sticky-wrapper__inner">
+		<a href="#" class="top-ad__sticky-wrapper__close icon-16x16-close-black"></a>
+
+		<div class="top-ad__container">
+			<div class="top-ad advert" data-id="topAdvert" data-dfp-id="leaderboard-1"></div>
+		</div>
+	</div>
+</div>
+						
+		<div class="row hide-for-xxlarge-up">
+			<div class="column">
+
+
+			</div>
+		</div>
+
+					</div>
+
+					<div class="site-content__middle">
+						
+	<aside class="site-sidebar-left" aria-label="Sidebar Left">
+		<div class="site-sidebar-left__sticky-wrapper">
+			<div class="site-sidebar-left__sticky-wrapper__inner">
+				<h4 class="show-for-sr">Sidebar Left</h4>
+
+			</div>
+		</div>
+	</aside>
+
+						<main class="site-main">
+							<div class="row">
+								<div class="column">
+									
+
+
+
+
+
+
+
+
+<div id="modelSpecsPage">
+	<a href="/peugeot/5008/specs/" class="return-link"><span class="return-link__icon icon-24x24-back-blue"></span><span class="return-link__text">View all Peugeot 5008 specifications</span></a>
+	
+
+<header class="main-heading">
+		<div class="main-heading__logo show-for-large-up">
+			<img alt="Peugeot logo" src="http://1.1.1.5/bmi/images.parkers.bauercdn.com/pagefiles/187603/logo/100x0/peugeot.png" />
+		</div>
+	<div class="main-heading__wrapper main-heading__wrapper--has-logo">
+		<h1 class="main-heading__title ">Peugeot 5008 (2010 onwards) Specs & Dimensions</h1>
+					</div>
+</header>
+
+	<ul class="quick-link-tabs tabs">
+			<li class="quick-link-tabs__tabs__item tabs__item tab-title ">
+				<a href="/peugeot/5008/" class="quick-link-tabs__link tabs__link">Review</a>
+			</li>
+			<li class="quick-link-tabs__tabs__item tabs__item tab-title ">
+				<a href="/peugeot/5008/estate-2010/owner-reviews/" class="quick-link-tabs__link tabs__link">Owner Reviews</a>
+			</li>
+			<li class="quick-link-tabs__tabs__item tabs__item tab-title active">
+				<a href="#" class="quick-link-tabs__link tabs__link">Specs</a>
+			</li>
+			<li class="quick-link-tabs__tabs__item tabs__item tab-title ">
+				<a href="/peugeot/5008/estate-2010/for-sale/" class="quick-link-tabs__link tabs__link">For Sale</a>
+			</li>
+			<li class="quick-link-tabs__tabs__item tabs__item tab-title ">
+				<a href="http://www.parkers.co.uk/cars/reviews/peugeot/5008/estate/road-tests/" class="quick-link-tabs__link tabs__link">In-depth Reviews (1)</a>
+			</li>
+			<li class="quick-link-tabs__tabs__item tabs__item tab-title ">
+				<a href="/peugeot/5008/photos/" class="quick-link-tabs__link tabs__link">Photos (93)</a>
+			</li>
+			<li class="quick-link-tabs__tabs__item tabs__item tab-title ">
+				<a href="http://www.parkers.co.uk/cars/prices/used/peugeot/5008/estate-2010/" class="quick-link-tabs__link tabs__link">Used Prices</a>
+			</li>
+	</ul>
+
+
+			<ul class="pipe-list">
+				<li class="pipe-list__label">
+					Select a trim level:
+				</li>
+					<li class="pipe-list__item">
+						<a href="#trim_1"><strong>Access</strong></a>
+					</li>
+					<li class="pipe-list__item">
+						<a href="#trim_2"><strong>SR</strong></a>
+					</li>
+					<li class="pipe-list__item">
+						<a href="#trim_3"><strong>Sport</strong></a>
+					</li>
+					<li class="pipe-list__item">
+						<a href="#trim_4"><strong>Envy</strong></a>
+					</li>
+					<li class="pipe-list__item">
+						<a href="#trim_5"><strong>Active II</strong></a>
+					</li>
+					<li class="pipe-list__item">
+						<a href="#trim_6"><strong>Family</strong></a>
+					</li>
+					<li class="pipe-list__item">
+						<a href="#trim_7"><strong>Active</strong></a>
+					</li>
+					<li class="pipe-list__item">
+						<a href="#trim_8"><strong>Style</strong></a>
+					</li>
+					<li class="pipe-list__item">
+						<a href="#trim_9"><strong>Exclusive</strong></a>
+					</li>
+					<li class="pipe-list__item">
+						<a href="#trim_10"><strong>Allure</strong></a>
+					</li>
+			</ul>
+
+
+	<div class="model-specs-page__trim-list">
+			<div class="model-specs-page__trim">
+				<div id="trim_1" class="model-specs-page__trim__heading">
+					<h2 class="model-specs-page__trim__name">Access <span class="show-for-sr">specs</span></h2>
+						<div class="model-specs-page__trim__price">From <strong>&#163;18,600</strong>
+						</div>
+				</div>
+				
+
+
+<table class="specs-table tablesaw tablesaw-swipe" data-tablesaw-mode="swipe" data-tablesaw-minimap>
+	<thead>
+		<tr>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist" data-tablesaw-priority="persist"></th>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist" data-tablesaw-priority="persist">Engine</th>
+			<th scope="col" class="specs-table__col-heading text-center">Power<br />(bhp)</th>
+			<th scope="col" class="specs-table__col-heading text-center">0-60 mph<br />(secs)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Fuel Economy<br />(mpg)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Insurance<br />Group</th>
+			<th scope="col" class="specs-table__col-heading text-center">Road Tax<br/>(per annum)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Length<br/>(mm)</th>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist show-for-medium-up" data-tablesaw-priority="persist"></th>
+		</tr>
+	</thead>
+	<tbody>
+
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.2 Petrol
+				</td>
+				<td class="specs-table__row__data">
+					128
+				</td>
+				<td class="specs-table__row__data">
+					11.9
+				</td>
+				<td class="specs-table__row__data">
+					53
+				</td>
+				<td class="specs-table__row__data">
+					18
+				</td>
+				<td class="specs-table__row__data">
+					£110
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/12-puretech-access-5d/specs/">1.2 Puretech Access 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 BlueHDi (120bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					118
+				</td>
+				<td class="specs-table__row__data">
+					13.3
+				</td>
+				<td class="specs-table__row__data">
+					67
+				</td>
+				<td class="specs-table__row__data">
+					18
+				</td>
+				<td class="specs-table__row__data">
+					£20
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-bluehdi-(120bhp)-access-5d/specs/">1.6 BlueHDi (120bhp) Access 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 e-Hdi (112bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					112
+				</td>
+				<td class="specs-table__row__data">
+					12.2
+				</td>
+				<td class="specs-table__row__data">
+					57
+				</td>
+				<td class="specs-table__row__data">
+					14
+				</td>
+				<td class="specs-table__row__data">
+					£110
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-e-hdi-(112bhp)-access-5d-egc/specs/">1.6 e-HDi (112bhp) Access 5d EGC</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 e-Hdi (115bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					115
+				</td>
+				<td class="specs-table__row__data">
+					12.2
+				</td>
+				<td class="specs-table__row__data">
+					65
+				</td>
+				<td class="specs-table__row__data">
+					14
+				</td>
+				<td class="specs-table__row__data">
+					£30
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-e-hdi-(115bhp)-access-5d-egc/specs/">1.6 e-HDi (115bhp) Access 5d EGC</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 e-Hdi Diesel
+				</td>
+				<td class="specs-table__row__data">
+					113
+				</td>
+				<td class="specs-table__row__data">
+					12.2
+				</td>
+				<td class="specs-table__row__data">
+					65
+				</td>
+				<td class="specs-table__row__data">
+					16
+				</td>
+				<td class="specs-table__row__data">
+					£30
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-e-hdi-access-5d-egc/specs/">1.6 e-HDi Access 5d EGC</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi (112bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					112
+				</td>
+				<td class="specs-table__row__data">
+					12.5
+				</td>
+				<td class="specs-table__row__data">
+					53
+				</td>
+				<td class="specs-table__row__data">
+					14
+				</td>
+				<td class="specs-table__row__data">
+					£130
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(112bhp)-access-5d/specs/">1.6 HDi (112bhp) Access 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi (115bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					115
+				</td>
+				<td class="specs-table__row__data">
+					12.5
+				</td>
+				<td class="specs-table__row__data">
+					56
+				</td>
+				<td class="specs-table__row__data">
+					14
+				</td>
+				<td class="specs-table__row__data">
+					£110
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(115bhp)-access-5d/specs/">1.6 HDi (115bhp) Access 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi Diesel
+				</td>
+				<td class="specs-table__row__data">
+					113
+				</td>
+				<td class="specs-table__row__data">
+					12.2 - 12.5
+				</td>
+				<td class="specs-table__row__data">
+					60 - 65
+				</td>
+				<td class="specs-table__row__data">
+					16
+				</td>
+				<td class="specs-table__row__data">
+					£30 - £110
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-access-5d/specs/">1.6 HDi Access 5d</a>
+									</h3>
+								</li>
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-access-5d-etg/specs/">1.6 HDi Access 5d ETG</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 VTi Petrol
+				</td>
+				<td class="specs-table__row__data">
+					118 - 120
+				</td>
+				<td class="specs-table__row__data">
+					11.9
+				</td>
+				<td class="specs-table__row__data">
+					40
+				</td>
+				<td class="specs-table__row__data">
+					13
+				</td>
+				<td class="specs-table__row__data">
+					£185
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-vti-access-5d/specs/">1.6 VTi Access 5d</a>
+									</h3>
+								</li>
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-vti-access-(1113-)-5d/specs/">1.6 VTi Access (11/13-) 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+	</tbody>
+</table>
+				<ul class="link-list">
+					<li class="link-list__item">
+						<a href="#" class="model-specs-page__trim-equipment-link" data-trim-id="trim_1">
+							View <strong>equipment options</strong> for the <strong>Access</strong> trim level
+						</a>
+					</li>
+				</ul>
+			</div>
+				<div class="hide-for-xlarge-up">
+					<div class="mpu-ad advert" data-id="mpuAdvert" data-dfp-id="mpu-1"></div>
+				</div>
+			<div class="model-specs-page__trim">
+				<div id="trim_2" class="model-specs-page__trim__heading">
+					<h2 class="model-specs-page__trim__name">SR <span class="show-for-sr">specs</span></h2>
+						<div class="model-specs-page__trim__price">From <strong>&#163;20,845</strong>
+						</div>
+				</div>
+				
+
+
+<table class="specs-table tablesaw tablesaw-swipe" data-tablesaw-mode="swipe" data-tablesaw-minimap>
+	<thead>
+		<tr>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist" data-tablesaw-priority="persist"></th>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist" data-tablesaw-priority="persist">Engine</th>
+			<th scope="col" class="specs-table__col-heading text-center">Power<br />(bhp)</th>
+			<th scope="col" class="specs-table__col-heading text-center">0-60 mph<br />(secs)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Fuel Economy<br />(mpg)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Insurance<br />Group</th>
+			<th scope="col" class="specs-table__col-heading text-center">Road Tax<br/>(per annum)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Length<br/>(mm)</th>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist show-for-medium-up" data-tablesaw-priority="persist"></th>
+		</tr>
+	</thead>
+	<tbody>
+
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 e-Hdi (112bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					112
+				</td>
+				<td class="specs-table__row__data">
+					12.2
+				</td>
+				<td class="specs-table__row__data">
+					57
+				</td>
+				<td class="specs-table__row__data">
+					14
+				</td>
+				<td class="specs-table__row__data">
+					£110
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-e-hdi-(112bhp)-sr-5d-egc/specs/">1.6 e-HDi (112bhp) SR 5d EGC</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 e-Hdi (115bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					115
+				</td>
+				<td class="specs-table__row__data">
+					12.2
+				</td>
+				<td class="specs-table__row__data">
+					62
+				</td>
+				<td class="specs-table__row__data">
+					14
+				</td>
+				<td class="specs-table__row__data">
+					£30
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-e-hdi-(115bhp)-sr-5d-egc/specs/">1.6 e-HDi (115bhp) SR 5d EGC</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi (112bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					112
+				</td>
+				<td class="specs-table__row__data">
+					12.2 - 12.5
+				</td>
+				<td class="specs-table__row__data">
+					53 - 55
+				</td>
+				<td class="specs-table__row__data">
+					14
+				</td>
+				<td class="specs-table__row__data">
+					£130
+				</td>
+				<td class="specs-table__row__data">
+					4,529 - 4,530
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(112bhp)-sr-5d/specs/">1.6 HDi (112bhp) SR 5d</a>
+									</h3>
+								</li>
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(112bhp)-sr-5d-egc/specs/">1.6 HDi (112bhp) SR 5d EGC</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi (115bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					115
+				</td>
+				<td class="specs-table__row__data">
+					12.5
+				</td>
+				<td class="specs-table__row__data">
+					56
+				</td>
+				<td class="specs-table__row__data">
+					14
+				</td>
+				<td class="specs-table__row__data">
+					£130
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(115bhp)-sr-5d/specs/">1.6 HDi (115bhp) SR 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+	</tbody>
+</table>
+				<ul class="link-list">
+					<li class="link-list__item">
+						<a href="#" class="model-specs-page__trim-equipment-link" data-trim-id="trim_2">
+							View <strong>equipment options</strong> for the <strong>SR</strong> trim level
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="model-specs-page__trim">
+				<div id="trim_3" class="model-specs-page__trim__heading">
+					<h2 class="model-specs-page__trim__name">Sport <span class="show-for-sr">specs</span></h2>
+						<div class="model-specs-page__trim__price">From <strong>&#163;19,695</strong>
+						</div>
+				</div>
+				
+
+
+<table class="specs-table tablesaw tablesaw-swipe" data-tablesaw-mode="swipe" data-tablesaw-minimap>
+	<thead>
+		<tr>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist" data-tablesaw-priority="persist"></th>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist" data-tablesaw-priority="persist">Engine</th>
+			<th scope="col" class="specs-table__col-heading text-center">Power<br />(bhp)</th>
+			<th scope="col" class="specs-table__col-heading text-center">0-60 mph<br />(secs)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Fuel Economy<br />(mpg)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Insurance<br />Group</th>
+			<th scope="col" class="specs-table__col-heading text-center">Road Tax<br/>(per annum)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Length<br/>(mm)</th>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist show-for-medium-up" data-tablesaw-priority="persist"></th>
+		</tr>
+	</thead>
+	<tbody>
+
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 e-Hdi (112bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					112
+				</td>
+				<td class="specs-table__row__data">
+					12.2
+				</td>
+				<td class="specs-table__row__data">
+					55
+				</td>
+				<td class="specs-table__row__data">
+					14
+				</td>
+				<td class="specs-table__row__data">
+					£130
+				</td>
+				<td class="specs-table__row__data">
+					4,530
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-e-hdi-(112bhp)-sport-5d-egc/specs/">1.6 e-HDi (112bhp) Sport 5d EGC</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi (110bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					110
+				</td>
+				<td class="specs-table__row__data">
+					12.2 - 12.5
+				</td>
+				<td class="specs-table__row__data">
+					53 - 55
+				</td>
+				<td class="specs-table__row__data">
+					16
+				</td>
+				<td class="specs-table__row__data">
+					£130
+				</td>
+				<td class="specs-table__row__data">
+					4,530
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(110bhp)-sport-5d/specs/">1.6 HDi (110bhp) Sport 5d</a>
+									</h3>
+								</li>
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(110bhp)-sport-5d-egc/specs/">1.6 HDi (110bhp) Sport 5d EGC</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi (112bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					112
+				</td>
+				<td class="specs-table__row__data">
+					12.2 - 12.5
+				</td>
+				<td class="specs-table__row__data">
+					53 - 55
+				</td>
+				<td class="specs-table__row__data">
+					16
+				</td>
+				<td class="specs-table__row__data">
+					£130
+				</td>
+				<td class="specs-table__row__data">
+					4,530
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(112bhp)-sport-5d/specs/">1.6 HDi (112bhp) Sport 5d</a>
+									</h3>
+								</li>
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(112bhp)-sport-5d-egc/specs/">1.6 HDi (112bhp) Sport 5d EGC</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 THP Petrol
+				</td>
+				<td class="specs-table__row__data">
+					156
+				</td>
+				<td class="specs-table__row__data">
+					9.4 - 9.6
+				</td>
+				<td class="specs-table__row__data">
+					36 - 39
+				</td>
+				<td class="specs-table__row__data">
+					16
+				</td>
+				<td class="specs-table__row__data">
+					£210 - £230
+				</td>
+				<td class="specs-table__row__data">
+					4,530
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-thp-sport-5d/specs/">1.6 THP Sport 5d</a>
+									</h3>
+								</li>
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-thp-sport-5d-auto/specs/">1.6 THP Sport 5d Auto</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 VTi Petrol
+				</td>
+				<td class="specs-table__row__data">
+					120
+				</td>
+				<td class="specs-table__row__data">
+					11.9
+				</td>
+				<td class="specs-table__row__data">
+					40
+				</td>
+				<td class="specs-table__row__data">
+					12
+				</td>
+				<td class="specs-table__row__data">
+					£185
+				</td>
+				<td class="specs-table__row__data">
+					4,530
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-vti-sport-5d/specs/">1.6 VTi Sport 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					2.0 HDi (150bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					150
+				</td>
+				<td class="specs-table__row__data">
+					9.7
+				</td>
+				<td class="specs-table__row__data">
+					49
+				</td>
+				<td class="specs-table__row__data">
+					22
+				</td>
+				<td class="specs-table__row__data">
+					£145
+				</td>
+				<td class="specs-table__row__data">
+					4,530
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/20-hdi-(150bhp)-sport-5d/specs/">2.0 HDi (150bhp) Sport 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					2.0 HDi (163bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					163
+				</td>
+				<td class="specs-table__row__data">
+					10.2
+				</td>
+				<td class="specs-table__row__data">
+					41
+				</td>
+				<td class="specs-table__row__data">
+					20
+				</td>
+				<td class="specs-table__row__data">
+					£230
+				</td>
+				<td class="specs-table__row__data">
+					4,530
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/20-hdi-(163bhp)-sport-5d-auto/specs/">2.0 HDi (163bhp) Sport 5d Auto</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+	</tbody>
+</table>
+				<ul class="link-list">
+					<li class="link-list__item">
+						<a href="#" class="model-specs-page__trim-equipment-link" data-trim-id="trim_3">
+							View <strong>equipment options</strong> for the <strong>Sport</strong> trim level
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="model-specs-page__trim">
+				<div id="trim_4" class="model-specs-page__trim__heading">
+					<h2 class="model-specs-page__trim__name">Envy <span class="show-for-sr">specs</span></h2>
+						<div class="model-specs-page__trim__price">From <strong>&#163;20,245</strong>
+						</div>
+				</div>
+				
+
+
+<table class="specs-table tablesaw tablesaw-swipe" data-tablesaw-mode="swipe" data-tablesaw-minimap>
+	<thead>
+		<tr>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist" data-tablesaw-priority="persist"></th>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist" data-tablesaw-priority="persist">Engine</th>
+			<th scope="col" class="specs-table__col-heading text-center">Power<br />(bhp)</th>
+			<th scope="col" class="specs-table__col-heading text-center">0-60 mph<br />(secs)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Fuel Economy<br />(mpg)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Insurance<br />Group</th>
+			<th scope="col" class="specs-table__col-heading text-center">Road Tax<br/>(per annum)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Length<br/>(mm)</th>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist show-for-medium-up" data-tablesaw-priority="persist"></th>
+		</tr>
+	</thead>
+	<tbody>
+
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi (112bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					112
+				</td>
+				<td class="specs-table__row__data">
+					12.5
+				</td>
+				<td class="specs-table__row__data">
+					53
+				</td>
+				<td class="specs-table__row__data">
+					14
+				</td>
+				<td class="specs-table__row__data">
+					£130
+				</td>
+				<td class="specs-table__row__data">
+					4,530
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(112bhp)-envy-5d/specs/">1.6 HDi (112bhp) Envy 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 VTi Petrol
+				</td>
+				<td class="specs-table__row__data">
+					120
+				</td>
+				<td class="specs-table__row__data">
+					11.9
+				</td>
+				<td class="specs-table__row__data">
+					40
+				</td>
+				<td class="specs-table__row__data">
+					13
+				</td>
+				<td class="specs-table__row__data">
+					£185
+				</td>
+				<td class="specs-table__row__data">
+					4,530
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-vti-envy-5d/specs/">1.6 VTi Envy 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+	</tbody>
+</table>
+				<ul class="link-list">
+					<li class="link-list__item">
+						<a href="#" class="model-specs-page__trim-equipment-link" data-trim-id="trim_4">
+							View <strong>equipment options</strong> for the <strong>Envy</strong> trim level
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="model-specs-page__trim">
+				<div id="trim_5" class="model-specs-page__trim__heading">
+					<h2 class="model-specs-page__trim__name">Active II <span class="show-for-sr">specs</span></h2>
+						<div class="model-specs-page__trim__price">From <strong>&#163;20,250</strong>
+						</div>
+				</div>
+				
+
+
+<table class="specs-table tablesaw tablesaw-swipe" data-tablesaw-mode="swipe" data-tablesaw-minimap>
+	<thead>
+		<tr>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist" data-tablesaw-priority="persist"></th>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist" data-tablesaw-priority="persist">Engine</th>
+			<th scope="col" class="specs-table__col-heading text-center">Power<br />(bhp)</th>
+			<th scope="col" class="specs-table__col-heading text-center">0-60 mph<br />(secs)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Fuel Economy<br />(mpg)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Insurance<br />Group</th>
+			<th scope="col" class="specs-table__col-heading text-center">Road Tax<br/>(per annum)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Length<br/>(mm)</th>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist show-for-medium-up" data-tablesaw-priority="persist"></th>
+		</tr>
+	</thead>
+	<tbody>
+
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 e-Hdi (112bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					112
+				</td>
+				<td class="specs-table__row__data">
+					12.2
+				</td>
+				<td class="specs-table__row__data">
+					55
+				</td>
+				<td class="specs-table__row__data">
+					14
+				</td>
+				<td class="specs-table__row__data">
+					£130
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-e-hdi-(112bhp)-active-ii-5d-egc/specs/">1.6 e-HDi (112bhp) Active II 5d EGC</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi (112bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					112
+				</td>
+				<td class="specs-table__row__data">
+					12.5
+				</td>
+				<td class="specs-table__row__data">
+					51
+				</td>
+				<td class="specs-table__row__data">
+					-
+				</td>
+				<td class="specs-table__row__data">
+					£130
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(112bhp)-active-ii-5d/specs/">1.6 HDi (112bhp) Active II 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 THP Petrol
+				</td>
+				<td class="specs-table__row__data">
+					156
+				</td>
+				<td class="specs-table__row__data">
+					9.4
+				</td>
+				<td class="specs-table__row__data">
+					40
+				</td>
+				<td class="specs-table__row__data">
+					17
+				</td>
+				<td class="specs-table__row__data">
+					£185
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-thp-active-ii-5d/specs/">1.6 THP Active II 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 VTi Petrol
+				</td>
+				<td class="specs-table__row__data">
+					120
+				</td>
+				<td class="specs-table__row__data">
+					11.9
+				</td>
+				<td class="specs-table__row__data">
+					40
+				</td>
+				<td class="specs-table__row__data">
+					13
+				</td>
+				<td class="specs-table__row__data">
+					£185
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-vti-active-ii-5d/specs/">1.6 VTi Active II 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					2.0 HDi (163bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					163
+				</td>
+				<td class="specs-table__row__data">
+					10.2
+				</td>
+				<td class="specs-table__row__data">
+					40
+				</td>
+				<td class="specs-table__row__data">
+					20
+				</td>
+				<td class="specs-table__row__data">
+					£230
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/20-hdi-(163bhp)-active-ii-5d-auto/specs/">2.0 HDi (163bhp) Active II 5d Auto</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+	</tbody>
+</table>
+				<ul class="link-list">
+					<li class="link-list__item">
+						<a href="#" class="model-specs-page__trim-equipment-link" data-trim-id="trim_5">
+							View <strong>equipment options</strong> for the <strong>Active II</strong> trim level
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="model-specs-page__trim">
+				<div id="trim_6" class="model-specs-page__trim__heading">
+					<h2 class="model-specs-page__trim__name">Family <span class="show-for-sr">specs</span></h2>
+						<div class="model-specs-page__trim__price">From <strong>&#163;20,945</strong>
+						</div>
+				</div>
+				
+
+
+<table class="specs-table tablesaw tablesaw-swipe" data-tablesaw-mode="swipe" data-tablesaw-minimap>
+	<thead>
+		<tr>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist" data-tablesaw-priority="persist"></th>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist" data-tablesaw-priority="persist">Engine</th>
+			<th scope="col" class="specs-table__col-heading text-center">Power<br />(bhp)</th>
+			<th scope="col" class="specs-table__col-heading text-center">0-60 mph<br />(secs)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Fuel Economy<br />(mpg)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Insurance<br />Group</th>
+			<th scope="col" class="specs-table__col-heading text-center">Road Tax<br/>(per annum)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Length<br/>(mm)</th>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist show-for-medium-up" data-tablesaw-priority="persist"></th>
+		</tr>
+	</thead>
+	<tbody>
+
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi (112bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					112
+				</td>
+				<td class="specs-table__row__data">
+					12.5
+				</td>
+				<td class="specs-table__row__data">
+					51
+				</td>
+				<td class="specs-table__row__data">
+					14
+				</td>
+				<td class="specs-table__row__data">
+					£130
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(112bhp)-family-5d/specs/">1.6 HDi (112bhp) Family 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi (115bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					115
+				</td>
+				<td class="specs-table__row__data">
+					12.5
+				</td>
+				<td class="specs-table__row__data">
+					56
+				</td>
+				<td class="specs-table__row__data">
+					14
+				</td>
+				<td class="specs-table__row__data">
+					£130
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(115bhp)-family-5d/specs/">1.6 HDi (115bhp) Family 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 VTi Petrol
+				</td>
+				<td class="specs-table__row__data">
+					120
+				</td>
+				<td class="specs-table__row__data">
+					11.9
+				</td>
+				<td class="specs-table__row__data">
+					40
+				</td>
+				<td class="specs-table__row__data">
+					13
+				</td>
+				<td class="specs-table__row__data">
+					£185
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-vti-family-5d/specs/">1.6 VTi Family 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+	</tbody>
+</table>
+				<ul class="link-list">
+					<li class="link-list__item">
+						<a href="#" class="model-specs-page__trim-equipment-link" data-trim-id="trim_6">
+							View <strong>equipment options</strong> for the <strong>Family</strong> trim level
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="model-specs-page__trim">
+				<div id="trim_7" class="model-specs-page__trim__heading">
+					<h2 class="model-specs-page__trim__name">Active <span class="show-for-sr">specs</span></h2>
+						<div class="model-specs-page__trim__price">From <strong>&#163;18,045</strong>
+						</div>
+				</div>
+				
+
+
+<table class="specs-table tablesaw tablesaw-swipe" data-tablesaw-mode="swipe" data-tablesaw-minimap>
+	<thead>
+		<tr>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist" data-tablesaw-priority="persist"></th>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist" data-tablesaw-priority="persist">Engine</th>
+			<th scope="col" class="specs-table__col-heading text-center">Power<br />(bhp)</th>
+			<th scope="col" class="specs-table__col-heading text-center">0-60 mph<br />(secs)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Fuel Economy<br />(mpg)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Insurance<br />Group</th>
+			<th scope="col" class="specs-table__col-heading text-center">Road Tax<br/>(per annum)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Length<br/>(mm)</th>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist show-for-medium-up" data-tablesaw-priority="persist"></th>
+		</tr>
+	</thead>
+	<tbody>
+
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 BlueHDi (120bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					118
+				</td>
+				<td class="specs-table__row__data">
+					11.8 - 12.4
+				</td>
+				<td class="specs-table__row__data">
+					65
+				</td>
+				<td class="specs-table__row__data">
+					19
+				</td>
+				<td class="specs-table__row__data">
+					£30
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-bluehdi-(120bhp)-active-5d/specs/">1.6 BlueHDi (120bhp) Active 5d</a>
+									</h3>
+								</li>
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-bluehdi-(120bhp)-active-5d-auto/specs/">1.6 BlueHDi (120bhp) Active 5d Auto</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 e-Hdi (112bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					112
+				</td>
+				<td class="specs-table__row__data">
+					12.2
+				</td>
+				<td class="specs-table__row__data">
+					55
+				</td>
+				<td class="specs-table__row__data">
+					14
+				</td>
+				<td class="specs-table__row__data">
+					£130
+				</td>
+				<td class="specs-table__row__data">
+					4,530
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-e-hdi-(112bhp)-active-5d-egc/specs/">1.6 e-HDi (112bhp) Active 5d EGC</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 e-Hdi (115bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					115
+				</td>
+				<td class="specs-table__row__data">
+					12.2
+				</td>
+				<td class="specs-table__row__data">
+					65
+				</td>
+				<td class="specs-table__row__data">
+					14
+				</td>
+				<td class="specs-table__row__data">
+					£110
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-e-hdi-(115bhp)-active-5d-egc/specs/">1.6 e-HDi (115bhp) Active 5d EGC</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 e-Hdi Diesel
+				</td>
+				<td class="specs-table__row__data">
+					113
+				</td>
+				<td class="specs-table__row__data">
+					12.2
+				</td>
+				<td class="specs-table__row__data">
+					60
+				</td>
+				<td class="specs-table__row__data">
+					17
+				</td>
+				<td class="specs-table__row__data">
+					£110
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-e-hdi-active-5d-egc/specs/">1.6 e-HDi Active 5d EGC</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi (110bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					110
+				</td>
+				<td class="specs-table__row__data">
+					12.2 - 12.5
+				</td>
+				<td class="specs-table__row__data">
+					53 - 55
+				</td>
+				<td class="specs-table__row__data">
+					15 - 16
+				</td>
+				<td class="specs-table__row__data">
+					£130
+				</td>
+				<td class="specs-table__row__data">
+					4,530
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(110bhp)-active-5d/specs/">1.6 HDi (110bhp) Active 5d</a>
+									</h3>
+								</li>
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(110bhp)-active-5d-egc/specs/">1.6 HDi (110bhp) Active 5d EGC</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi (112bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					112
+				</td>
+				<td class="specs-table__row__data">
+					12.2 - 12.5
+				</td>
+				<td class="specs-table__row__data">
+					53 - 55
+				</td>
+				<td class="specs-table__row__data">
+					16
+				</td>
+				<td class="specs-table__row__data">
+					£130
+				</td>
+				<td class="specs-table__row__data">
+					4,530
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(112bhp)-active-5d/specs/">1.6 HDi (112bhp) Active 5d</a>
+									</h3>
+								</li>
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(112bhp)-active-5d-egc/specs/">1.6 HDi (112bhp) Active 5d EGC</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi (115bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					115
+				</td>
+				<td class="specs-table__row__data">
+					12.5
+				</td>
+				<td class="specs-table__row__data">
+					56
+				</td>
+				<td class="specs-table__row__data">
+					14
+				</td>
+				<td class="specs-table__row__data">
+					£130
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(115bhp)-active-5d/specs/">1.6 HDi (115bhp) Active 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi Diesel
+				</td>
+				<td class="specs-table__row__data">
+					113
+				</td>
+				<td class="specs-table__row__data">
+					12.2 - 12.5
+				</td>
+				<td class="specs-table__row__data">
+					56 - 60
+				</td>
+				<td class="specs-table__row__data">
+					17
+				</td>
+				<td class="specs-table__row__data">
+					£110
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-active-5d/specs/">1.6 HDi Active 5d</a>
+									</h3>
+								</li>
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-active-5d-etg/specs/">1.6 HDi Active 5d ETG</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 VTi Petrol
+				</td>
+				<td class="specs-table__row__data">
+					118 - 120
+				</td>
+				<td class="specs-table__row__data">
+					11.9
+				</td>
+				<td class="specs-table__row__data">
+					40
+				</td>
+				<td class="specs-table__row__data">
+					12 - 15
+				</td>
+				<td class="specs-table__row__data">
+					£185
+				</td>
+				<td class="specs-table__row__data">
+					4,529 - 4,530
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-vti-active-(1113-)-5d/specs/">1.6 VTi Active (11/13-) 5d</a>
+									</h3>
+								</li>
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-vti-active-5d/specs/">1.6 VTi Active 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+
+	</tbody>
+</table>
+				<ul class="link-list">
+					<li class="link-list__item">
+						<a href="#" class="model-specs-page__trim-equipment-link" data-trim-id="trim_7">
+							View <strong>equipment options</strong> for the <strong>Active</strong> trim level
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="model-specs-page__trim">
+				<div id="trim_8" class="model-specs-page__trim__heading">
+					<h2 class="model-specs-page__trim__name">Style <span class="show-for-sr">specs</span></h2>
+						<div class="model-specs-page__trim__price">From <strong>&#163;21,395</strong>
+						</div>
+				</div>
+				
+
+
+<table class="specs-table tablesaw tablesaw-swipe" data-tablesaw-mode="swipe" data-tablesaw-minimap>
+	<thead>
+		<tr>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist" data-tablesaw-priority="persist"></th>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist" data-tablesaw-priority="persist">Engine</th>
+			<th scope="col" class="specs-table__col-heading text-center">Power<br />(bhp)</th>
+			<th scope="col" class="specs-table__col-heading text-center">0-60 mph<br />(secs)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Fuel Economy<br />(mpg)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Insurance<br />Group</th>
+			<th scope="col" class="specs-table__col-heading text-center">Road Tax<br/>(per annum)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Length<br/>(mm)</th>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist show-for-medium-up" data-tablesaw-priority="persist"></th>
+		</tr>
+	</thead>
+	<tbody>
+
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi (112bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					112
+				</td>
+				<td class="specs-table__row__data">
+					12.5
+				</td>
+				<td class="specs-table__row__data">
+					51
+				</td>
+				<td class="specs-table__row__data">
+					-
+				</td>
+				<td class="specs-table__row__data">
+					£130
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(112bhp)-style-5d/specs/">1.6 HDi (112bhp) Style 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi (115bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					115
+				</td>
+				<td class="specs-table__row__data">
+					12.5
+				</td>
+				<td class="specs-table__row__data">
+					56
+				</td>
+				<td class="specs-table__row__data">
+					-
+				</td>
+				<td class="specs-table__row__data">
+					£130
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(115bhp)-style-5d/specs/">1.6 HDi (115bhp) Style 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+
+	</tbody>
+</table>
+				<ul class="link-list">
+					<li class="link-list__item">
+						<a href="#" class="model-specs-page__trim-equipment-link" data-trim-id="trim_8">
+							View <strong>equipment options</strong> for the <strong>Style</strong> trim level
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="model-specs-page__trim">
+				<div id="trim_9" class="model-specs-page__trim__heading">
+					<h2 class="model-specs-page__trim__name">Exclusive <span class="show-for-sr">specs</span></h2>
+						<div class="model-specs-page__trim__price">From <strong>&#163;22,245</strong>
+						</div>
+				</div>
+				
+
+
+<table class="specs-table tablesaw tablesaw-swipe" data-tablesaw-mode="swipe" data-tablesaw-minimap>
+	<thead>
+		<tr>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist" data-tablesaw-priority="persist"></th>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist" data-tablesaw-priority="persist">Engine</th>
+			<th scope="col" class="specs-table__col-heading text-center">Power<br />(bhp)</th>
+			<th scope="col" class="specs-table__col-heading text-center">0-60 mph<br />(secs)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Fuel Economy<br />(mpg)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Insurance<br />Group</th>
+			<th scope="col" class="specs-table__col-heading text-center">Road Tax<br/>(per annum)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Length<br/>(mm)</th>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist show-for-medium-up" data-tablesaw-priority="persist"></th>
+		</tr>
+	</thead>
+	<tbody>
+
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 e-Hdi (112bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					112
+				</td>
+				<td class="specs-table__row__data">
+					12.2
+				</td>
+				<td class="specs-table__row__data">
+					55
+				</td>
+				<td class="specs-table__row__data">
+					14
+				</td>
+				<td class="specs-table__row__data">
+					£130
+				</td>
+				<td class="specs-table__row__data">
+					4,530
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-e-hdi-(112bhp)-exclusive-5d-egc/specs/">1.6 e-HDi (112bhp) Exclusive 5d EGC</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi (110bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					110
+				</td>
+				<td class="specs-table__row__data">
+					12.2 - 12.5
+				</td>
+				<td class="specs-table__row__data">
+					53 - 55
+				</td>
+				<td class="specs-table__row__data">
+					17
+				</td>
+				<td class="specs-table__row__data">
+					£130
+				</td>
+				<td class="specs-table__row__data">
+					4,530
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(110bhp)-exclusive-5d/specs/">1.6 HDi (110bhp) Exclusive 5d</a>
+									</h3>
+								</li>
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(110bhp)-exclusive-5d-egc/specs/">1.6 HDi (110bhp) Exclusive 5d EGC</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi (112bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					112
+				</td>
+				<td class="specs-table__row__data">
+					12.2 - 12.5
+				</td>
+				<td class="specs-table__row__data">
+					53 - 55
+				</td>
+				<td class="specs-table__row__data">
+					17
+				</td>
+				<td class="specs-table__row__data">
+					£130 - £145
+				</td>
+				<td class="specs-table__row__data">
+					4,530
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(112bhp)-exclusive-5d/specs/">1.6 HDi (112bhp) Exclusive 5d</a>
+									</h3>
+								</li>
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(112bhp)-exclusive-5d-egc/specs/">1.6 HDi (112bhp) Exclusive 5d EGC</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 THP Petrol
+				</td>
+				<td class="specs-table__row__data">
+					156
+				</td>
+				<td class="specs-table__row__data">
+					9.4 - 9.6
+				</td>
+				<td class="specs-table__row__data">
+					36 - 39
+				</td>
+				<td class="specs-table__row__data">
+					16
+				</td>
+				<td class="specs-table__row__data">
+					£210 - £230
+				</td>
+				<td class="specs-table__row__data">
+					4,530
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-thp-exclusive-5d/specs/">1.6 THP Exclusive 5d</a>
+									</h3>
+								</li>
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-thp-exclusive-5d-auto/specs/">1.6 THP Exclusive 5d Auto</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					2.0 HDi (163bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					163
+				</td>
+				<td class="specs-table__row__data">
+					10.2
+				</td>
+				<td class="specs-table__row__data">
+					40
+				</td>
+				<td class="specs-table__row__data">
+					20
+				</td>
+				<td class="specs-table__row__data">
+					£230
+				</td>
+				<td class="specs-table__row__data">
+					4,530
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/20-hdi-(163bhp)-exclusive-5d-auto/specs/">2.0 HDi (163bhp) Exclusive 5d Auto</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+	</tbody>
+</table>
+				<ul class="link-list">
+					<li class="link-list__item">
+						<a href="#" class="model-specs-page__trim-equipment-link" data-trim-id="trim_9">
+							View <strong>equipment options</strong> for the <strong>Exclusive</strong> trim level
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="model-specs-page__trim">
+				<div id="trim_10" class="model-specs-page__trim__heading">
+					<h2 class="model-specs-page__trim__name">Allure <span class="show-for-sr">specs</span></h2>
+						<div class="model-specs-page__trim__price">From <strong>&#163;22,850</strong>
+						</div>
+				</div>
+				
+
+
+<table class="specs-table tablesaw tablesaw-swipe" data-tablesaw-mode="swipe" data-tablesaw-minimap>
+	<thead>
+		<tr>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist" data-tablesaw-priority="persist"></th>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist" data-tablesaw-priority="persist">Engine</th>
+			<th scope="col" class="specs-table__col-heading text-center">Power<br />(bhp)</th>
+			<th scope="col" class="specs-table__col-heading text-center">0-60 mph<br />(secs)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Fuel Economy<br />(mpg)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Insurance<br />Group</th>
+			<th scope="col" class="specs-table__col-heading text-center">Road Tax<br/>(per annum)</th>
+			<th scope="col" class="specs-table__col-heading text-center">Length<br/>(mm)</th>
+			<th scope="col" class="specs-table__col-heading tablesaw-cell-persist show-for-medium-up" data-tablesaw-priority="persist"></th>
+		</tr>
+	</thead>
+	<tbody>
+
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 BlueHDi (120bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					118
+				</td>
+				<td class="specs-table__row__data">
+					11.8 - 12.4
+				</td>
+				<td class="specs-table__row__data">
+					64
+				</td>
+				<td class="specs-table__row__data">
+					18 - 19
+				</td>
+				<td class="specs-table__row__data">
+					£30
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-bluehdi-(120bhp)-allure-5d/specs/">1.6 BlueHDi (120bhp) Allure 5d</a>
+									</h3>
+								</li>
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-bluehdi-(120bhp)-allure-5d-auto/specs/">1.6 BlueHDi (120bhp) Allure 5d Auto</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 e-Hdi (115bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					115
+				</td>
+				<td class="specs-table__row__data">
+					12.2
+				</td>
+				<td class="specs-table__row__data">
+					58
+				</td>
+				<td class="specs-table__row__data">
+					14
+				</td>
+				<td class="specs-table__row__data">
+					£110
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-e-hdi-(115bhp)-allure-5d-egc/specs/">1.6 e-HDi (115bhp) Allure 5d EGC</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 e-Hdi Diesel
+				</td>
+				<td class="specs-table__row__data">
+					113
+				</td>
+				<td class="specs-table__row__data">
+					12.2
+				</td>
+				<td class="specs-table__row__data">
+					58
+				</td>
+				<td class="specs-table__row__data">
+					16
+				</td>
+				<td class="specs-table__row__data">
+					£110
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-e-hdi-allure-5d-egc/specs/">1.6 e-HDi Allure 5d EGC</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi (112bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					112
+				</td>
+				<td class="specs-table__row__data">
+					12.2 - 12.5
+				</td>
+				<td class="specs-table__row__data">
+					51 - 55
+				</td>
+				<td class="specs-table__row__data">
+					14
+				</td>
+				<td class="specs-table__row__data">
+					£130
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(112bhp)-allure-5d/specs/">1.6 HDi (112bhp) Allure 5d</a>
+									</h3>
+								</li>
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-e-hdi-(112bhp)-allure-5d-egc/specs/">1.6 e-HDi (112bhp) Allure 5d EGC</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi (115bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					115
+				</td>
+				<td class="specs-table__row__data">
+					12.5
+				</td>
+				<td class="specs-table__row__data">
+					54
+				</td>
+				<td class="specs-table__row__data">
+					14
+				</td>
+				<td class="specs-table__row__data">
+					£130
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-(115bhp)-allure-5d/specs/">1.6 HDi (115bhp) Allure 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 HDi Diesel
+				</td>
+				<td class="specs-table__row__data">
+					113
+				</td>
+				<td class="specs-table__row__data">
+					12.2 - 12.5
+				</td>
+				<td class="specs-table__row__data">
+					54 - 58
+				</td>
+				<td class="specs-table__row__data">
+					16
+				</td>
+				<td class="specs-table__row__data">
+					£110 - £130
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-allure-5d/specs/">1.6 HDi Allure 5d</a>
+									</h3>
+								</li>
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-hdi-allure-5d-etg/specs/">1.6 HDi Allure 5d ETG</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+			<tr class="specs-table__engine specs-table__row ">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					1.6 THP Petrol
+				</td>
+				<td class="specs-table__row__data">
+					153 - 156
+				</td>
+				<td class="specs-table__row__data">
+					9.4
+				</td>
+				<td class="specs-table__row__data">
+					40
+				</td>
+				<td class="specs-table__row__data">
+					17 - 19
+				</td>
+				<td class="specs-table__row__data">
+					£185
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-thp-allure-5d/specs/">1.6 THP Allure 5d</a>
+									</h3>
+								</li>
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/16-thp-allure-(1113-)-5d/specs/">1.6 THP Allure (11/13-) 5d</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+
+			<tr class="specs-table__engine specs-table__row specs-table__row--alt">
+				<td class="specs-table__row__expand"></td>
+				<td scope="row" class="specs-table__row__heading tablesaw-cell-persist">
+					2.0 HDi (163bhp) Diesel
+				</td>
+				<td class="specs-table__row__data">
+					160 - 163
+				</td>
+				<td class="specs-table__row__data">
+					10.2
+				</td>
+				<td class="specs-table__row__data">
+					40 - 49
+				</td>
+				<td class="specs-table__row__data">
+					19 - 20
+				</td>
+				<td class="specs-table__row__data">
+					£145 - £230
+				</td>
+				<td class="specs-table__row__data">
+					4,529
+				</td>
+				<td class="specs-table__row__data show-for-medium-up">
+					<a href="#" class="specs-table__view-derivatives-link">Full specs</a>
+				</td>
+			</tr>
+			<tr class="specs-table__derivatives ">
+				<td colspan="8">
+					<div class="specs-table__derivatives__panel">
+						<div class="specs-table__derivatives__panel__heading">Select a version to view full specs:</div>
+						<ul class="specs-table__derivatives__panel__list square">
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/20-hdi-(163bhp)-allure-5d-auto/specs/">2.0 HDi (163bhp) Allure 5d Auto</a>
+									</h3>
+								</li>
+								<li>
+									<h3 class="specs-table__derivatives__panel__version">
+										<a href="/peugeot/5008/estate-2010/20-hdi-163bhp-allure-5d-auto/specs/">2.0 HDi 163bhp Allure 5d Auto</a>
+									</h3>
+								</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+
+	</tbody>
+</table>
+				<ul class="link-list">
+					<li class="link-list__item">
+						<a href="#" class="model-specs-page__trim-equipment-link" data-trim-id="trim_10">
+							View <strong>equipment options</strong> for the <strong>Allure</strong> trim level
+						</a>
+					</li>
+				</ul>
+			</div>
+
+			<div class="hide-for-xlarge-up">
+				<div class="mpu-ad advert" data-id="mpu2Advert" data-dfp-id="mpu-2"></div>
+			</div>
+
+	</div>
+
+		<div class="model-specs-page__trim-equipment-list content-box">
+			<div class="content-box__heading">
+				<h2 class="content-box__heading__text">Equipment List</h2>
+			</div>
+			<div class="content-box__content">
+				
+<div class="trim-equipment-list">
+	<div class="row">
+		<div class="column large-6">
+			<h3>Basic equipment</h3>
+			<p class="small">
+				The basic equipment list includes equipment that is standard across all versions of the Peugeot 5008.
+			</p>
+			<table class="full-width">
+				<tbody>
+					<tr>
+						<td>
+							<ul>
+									<li>3x3 point rear seat belts</li>
+									<li>ABS</li>
+									<li>CD</li>
+									<li>Cloth seat trim</li>
+									<li>Driver`s airbag</li>
+									<li>Folding rear seats</li>
+									<li>Front electric windows</li>
+									<li>Isofix child seat anchor points</li>
+									<li>PAS</li>
+									<li>Passenger`s airbag</li>
+									<li>Remote locking</li>
+									<li>Side airbags</li>
+									<li>Steering wheel rake adjustment</li>
+									<li>Steering wheel reach adjustment</li>
+									<li>Traction control</li>
+							</ul>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div class="column large-6">
+			<h3>Equipment by trim level</h3>
+
+			<p class="small">
+				To view equipment options for a specific trim level, please select from the following list:
+			</p>
+
+			<label class="alert-box alert-box--info hide-for-sr">
+				<strong>Select a trim:</strong>
+				<select title="Select a trim" class="trim-equipment-list__filter" autocomplete="off">
+						<option value="" selected>All trim levels</option>
+
+						<option value="trim_1">Access</option>
+						<option value="trim_7">Active</option>
+						<option value="trim_5">Active II</option>
+						<option value="trim_10">Allure</option>
+						<option value="trim_4">Envy</option>
+						<option value="trim_9">Exclusive</option>
+						<option value="trim_6">Family</option>
+						<option value="trim_3">Sport</option>
+						<option value="trim_2">SR</option>
+						<option value="trim_8">Style</option>
+				</select>
+			</label>
+
+				<div class="trim-equipment-list__optional">
+					<table class="full-width">
+						<thead>
+							<tr>
+								<th>Equipment included on some trim levels</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									<ul>
+											<li>Air conditioning</li>
+											<li>Alarm</li>
+											<li>Alloy wheels</li>
+											<li>Body coloured bumpers</li>
+											<li>Climate control</li>
+											<li>Cruise control</li>
+											<li>DVD</li>
+											<li>Electric mirrors</li>
+											<li>Front fog lights</li>
+											<li>Full size spare wheel</li>
+											<li>Headlight washers</li>
+											<li>Height adjustable drivers seat</li>
+											<li>Lumbar support</li>
+											<li>Metallic Paint</li>
+											<li>Parking sensors</li>
+											<li>Rear electric windows</li>
+											<li>Roof rails</li>
+											<li>Sat Nav</li>
+											<li>Space saver spare wheel</li>
+											<li>Steel wheels</li>
+									</ul>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+
+				<div class="trim-equipment-list__by-trim" data-trim-id="trim_1">
+					<h4 class="show-for-sr">Access equipment</h4>
+
+					<table class="full-width">
+						<thead>
+							<tr>
+								<th>Access standard equipment</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+										<ul>
+												<li>Air conditioning</li>
+												<li>Alloy wheels</li>
+												<li>Body coloured bumpers</li>
+												<li>Space saver spare wheel</li>
+										</ul>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+
+					<table class="full-width">
+						<thead>
+							<tr>
+								<th>Access optional equipment</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+										<ul>
+												<li>Rear electric windows</li>
+										</ul>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<div class="trim-equipment-list__by-trim" data-trim-id="trim_7">
+					<h4 class="show-for-sr">Active equipment</h4>
+
+					<table class="full-width">
+						<thead>
+							<tr>
+								<th>Active standard equipment</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+										<ul>
+												<li>Air conditioning</li>
+												<li>Body coloured bumpers</li>
+										</ul>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+
+					<table class="full-width">
+						<thead>
+							<tr>
+								<th>Active optional equipment</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+										<ul>
+												<li>Alloy wheels</li>
+												<li>Climate control</li>
+												<li>Cruise control</li>
+												<li>Electric mirrors</li>
+												<li>Front fog lights</li>
+												<li>Full size spare wheel</li>
+												<li>Headlight washers</li>
+												<li>Height adjustable drivers seat</li>
+												<li>Lumbar support</li>
+												<li>Parking sensors</li>
+												<li>Rear electric windows</li>
+												<li>Roof rails</li>
+												<li>Steel wheels</li>
+										</ul>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<div class="trim-equipment-list__by-trim" data-trim-id="trim_5">
+					<h4 class="show-for-sr">Active II equipment</h4>
+
+					<table class="full-width">
+						<thead>
+							<tr>
+								<th>Active II standard equipment</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+										<ul>
+												<li>Air conditioning</li>
+												<li>Alloy wheels</li>
+												<li>Body coloured bumpers</li>
+												<li>Cruise control</li>
+												<li>Front fog lights</li>
+												<li>Headlight washers</li>
+												<li>Height adjustable drivers seat</li>
+												<li>Lumbar support</li>
+												<li>Parking sensors</li>
+												<li>Rear electric windows</li>
+										</ul>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+
+					<table class="full-width">
+						<thead>
+							<tr>
+								<th>Active II optional equipment</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+										None available
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<div class="trim-equipment-list__by-trim" data-trim-id="trim_10">
+					<h4 class="show-for-sr">Allure equipment</h4>
+
+					<table class="full-width">
+						<thead>
+							<tr>
+								<th>Allure standard equipment</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+										<ul>
+												<li>Alarm</li>
+												<li>Alloy wheels</li>
+												<li>Climate control</li>
+												<li>Cruise control</li>
+												<li>Electric mirrors</li>
+												<li>Front fog lights</li>
+												<li>Headlight washers</li>
+												<li>Height adjustable drivers seat</li>
+												<li>Lumbar support</li>
+												<li>Parking sensors</li>
+												<li>Rear electric windows</li>
+										</ul>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+
+					<table class="full-width">
+						<thead>
+							<tr>
+								<th>Allure optional equipment</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+										<ul>
+												<li>Body coloured bumpers</li>
+												<li>Roof rails</li>
+												<li>Sat Nav</li>
+										</ul>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<div class="trim-equipment-list__by-trim" data-trim-id="trim_4">
+					<h4 class="show-for-sr">Envy equipment</h4>
+
+					<table class="full-width">
+						<thead>
+							<tr>
+								<th>Envy standard equipment</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+										<ul>
+												<li>Air conditioning</li>
+												<li>Alloy wheels</li>
+												<li>Body coloured bumpers</li>
+												<li>Cruise control</li>
+												<li>Front fog lights</li>
+												<li>Full size spare wheel</li>
+												<li>Headlight washers</li>
+												<li>Height adjustable drivers seat</li>
+												<li>Parking sensors</li>
+												<li>Rear electric windows</li>
+										</ul>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+
+					<table class="full-width">
+						<thead>
+							<tr>
+								<th>Envy optional equipment</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+										None available
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<div class="trim-equipment-list__by-trim" data-trim-id="trim_9">
+					<h4 class="show-for-sr">Exclusive equipment</h4>
+
+					<table class="full-width">
+						<thead>
+							<tr>
+								<th>Exclusive standard equipment</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+										<ul>
+												<li>Alarm</li>
+												<li>Alloy wheels</li>
+												<li>Climate control</li>
+												<li>Cruise control</li>
+												<li>Electric mirrors</li>
+												<li>Front fog lights</li>
+												<li>Full size spare wheel</li>
+												<li>Headlight washers</li>
+												<li>Height adjustable drivers seat</li>
+												<li>Lumbar support</li>
+												<li>Parking sensors</li>
+												<li>Rear electric windows</li>
+										</ul>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+
+					<table class="full-width">
+						<thead>
+							<tr>
+								<th>Exclusive optional equipment</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+										None available
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<div class="trim-equipment-list__by-trim" data-trim-id="trim_6">
+					<h4 class="show-for-sr">Family equipment</h4>
+
+					<table class="full-width">
+						<thead>
+							<tr>
+								<th>Family standard equipment</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+										<ul>
+												<li>Air conditioning</li>
+												<li>Alloy wheels</li>
+												<li>Body coloured bumpers</li>
+												<li>Cruise control</li>
+												<li>DVD</li>
+												<li>Front fog lights</li>
+												<li>Headlight washers</li>
+												<li>Height adjustable drivers seat</li>
+												<li>Lumbar support</li>
+												<li>Parking sensors</li>
+												<li>Rear electric windows</li>
+												<li>Roof rails</li>
+										</ul>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+
+					<table class="full-width">
+						<thead>
+							<tr>
+								<th>Family optional equipment</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+										<ul>
+												<li>Full size spare wheel</li>
+										</ul>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<div class="trim-equipment-list__by-trim" data-trim-id="trim_3">
+					<h4 class="show-for-sr">Sport equipment</h4>
+
+					<table class="full-width">
+						<thead>
+							<tr>
+								<th>Sport standard equipment</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+										<ul>
+												<li>Air conditioning</li>
+												<li>Alloy wheels</li>
+												<li>Body coloured bumpers</li>
+												<li>Cruise control</li>
+												<li>Front fog lights</li>
+												<li>Full size spare wheel</li>
+												<li>Height adjustable drivers seat</li>
+												<li>Rear electric windows</li>
+										</ul>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+
+					<table class="full-width">
+						<thead>
+							<tr>
+								<th>Sport optional equipment</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+										<ul>
+												<li>Headlight washers</li>
+												<li>Parking sensors</li>
+										</ul>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<div class="trim-equipment-list__by-trim" data-trim-id="trim_2">
+					<h4 class="show-for-sr">SR equipment</h4>
+
+					<table class="full-width">
+						<thead>
+							<tr>
+								<th>SR standard equipment</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+										<ul>
+												<li>Air conditioning</li>
+												<li>Alloy wheels</li>
+												<li>Body coloured bumpers</li>
+												<li>Sat Nav</li>
+										</ul>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+
+					<table class="full-width">
+						<thead>
+							<tr>
+								<th>SR optional equipment</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+										<ul>
+												<li>Full size spare wheel</li>
+												<li>Space saver spare wheel</li>
+										</ul>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<div class="trim-equipment-list__by-trim" data-trim-id="trim_8">
+					<h4 class="show-for-sr">Style equipment</h4>
+
+					<table class="full-width">
+						<thead>
+							<tr>
+								<th>Style standard equipment</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+										<ul>
+												<li>Air conditioning</li>
+												<li>Alloy wheels</li>
+												<li>Body coloured bumpers</li>
+												<li>Cruise control</li>
+												<li>Front fog lights</li>
+												<li>Headlight washers</li>
+												<li>Height adjustable drivers seat</li>
+												<li>Lumbar support</li>
+												<li>Metallic Paint</li>
+												<li>Parking sensors</li>
+												<li>Rear electric windows</li>
+												<li>Roof rails</li>
+										</ul>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+
+					<table class="full-width">
+						<thead>
+							<tr>
+								<th>Style optional equipment</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+										<ul>
+												<li>Climate control</li>
+												<li>Electric mirrors</li>
+												<li>Full size spare wheel</li>
+												<li>Steel wheels</li>
+										</ul>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+		</div>
+	</div>
+</div>
+			</div>
+		</div>
+</div>
+
+								</div>
+							</div>
+
+							<div class="hide-for-xlarge-up">
+
+<div class="cfs-featured-cars for-sale-carousel-container">
+	<h2 class="cfs-featured-cars__heading">Featured cars for sale</h2>
+	<div class="for-sale-carousel">
+			<div class="for-sale-carousel__item">
+				<h3 class="for-sale-carousel__item__heading">
+					<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42668609" target="_blank" data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42668609"}'>Peugeot 5008 Estate</a>
+					<span class="for-sale-carousel__item__heading__derivative">1.6 HDi (112bhp) Allure 5d</span>
+				</h3>
+				<div class="row">
+					<div class="column small-6">
+							<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42668609" class="cfs-result-item__image th" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42668609"}'>
+								<img alt="Peugeot 5008 (10 on) 1.6 HDi (112bhp) Allure 5d For Sale - Bristol Street Motors Peugeot Harlow, HARLOW" src="http://1.1.1.2/bmi/images.parkers.bauercdn.com/external/cfs/usedcfs-228074542668609/-510685950/200x150/1.jpg" />
+							</a>
+					</div>
+					<div class="column small-6">
+						<span class="for-sale-carousel__item__mileage">34,426 miles</span>
+						<span class="for-sale-carousel__item__price">only <strong>&#163;10,995</strong></span>
+						<a class="for-sale-carousel__item__link" href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42668609" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42668609"}'>
+							View details
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="for-sale-carousel__item">
+				<h3 class="for-sale-carousel__item__heading">
+					<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=43237636" target="_blank" data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 43237636"}'>Peugeot 5008 Estate</a>
+					<span class="for-sale-carousel__item__heading__derivative">2.0 HDi (150bhp) Allure 5d</span>
+				</h3>
+				<div class="row">
+					<div class="column small-6">
+							<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=43237636" class="cfs-result-item__image th" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 43237636"}'>
+								<img alt="Peugeot 5008 (10 on) 2.0 HDi (150bhp) Allure 5d For Sale - The Car People - Sheffield, ROTHERHAM" src="http://1.1.1.3/bmi/images.parkers.bauercdn.com/external/cfs/usedcfs-442994543237636/-760583567/200x150/1.jpg" />
+							</a>
+					</div>
+					<div class="column small-6">
+						<span class="for-sale-carousel__item__mileage">35,729 miles</span>
+						<span class="for-sale-carousel__item__price">only <strong>&#163;11,499</strong></span>
+						<a class="for-sale-carousel__item__link" href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=43237636" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 43237636"}'>
+							View details
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="for-sale-carousel__item">
+				<h3 class="for-sale-carousel__item__heading">
+					<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42656647" target="_blank" data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42656647"}'>Peugeot 5008 Estate</a>
+					<span class="for-sale-carousel__item__heading__derivative">1.6 HDi (112bhp) Active II 5d</span>
+				</h3>
+				<div class="row">
+					<div class="column small-6">
+							<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42656647" class="cfs-result-item__image th" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42656647"}'>
+								<img alt="Peugeot 5008 (10 on) 1.6 HDi (112bhp) Active II 5d For Sale - Buyacar.co.uk, LONDON" src="http://1.1.1.1/bmi/images.parkers.bauercdn.com/external/cfs/usedcfs-641654542656647/-2092681744/200x150/1.jpg" />
+							</a>
+					</div>
+					<div class="column small-6">
+						<span class="for-sale-carousel__item__mileage">38,279 miles</span>
+						<span class="for-sale-carousel__item__price">only <strong>&#163;10,200</strong></span>
+						<a class="for-sale-carousel__item__link" href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42656647" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42656647"}'>
+							View details
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="for-sale-carousel__item">
+				<h3 class="for-sale-carousel__item__heading">
+					<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42743708" target="_blank" data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42743708"}'>Peugeot 5008 Estate</a>
+					<span class="for-sale-carousel__item__heading__derivative">2.0 HDi Active 5d</span>
+				</h3>
+				<div class="row">
+					<div class="column small-6">
+							<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42743708" class="cfs-result-item__image th" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42743708"}'>
+								<img alt="Peugeot 5008 (10 on) 2.0 HDi Active 5d For Sale - Perrys Milton Keynes Peugeot, MILTON KEYNES" src="http://1.1.1.2/bmi/images.parkers.bauercdn.com/external/cfs/usedcfs-121964542743708/1455488131/200x150/1.jpg" />
+							</a>
+					</div>
+					<div class="column small-6">
+						<span class="for-sale-carousel__item__mileage">15,369 miles</span>
+						<span class="for-sale-carousel__item__price">only <strong>&#163;13,250</strong></span>
+						<a class="for-sale-carousel__item__link" href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42743708" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42743708"}'>
+							View details
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="for-sale-carousel__item">
+				<h3 class="for-sale-carousel__item__heading">
+					<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42362618" target="_blank" data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42362618"}'>Peugeot 5008 Estate</a>
+					<span class="for-sale-carousel__item__heading__derivative">1.6 HDi (115bhp) Allure 5d</span>
+				</h3>
+				<div class="row">
+					<div class="column small-6">
+							<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42362618" class="cfs-result-item__image th" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42362618"}'>
+								<img alt="Peugeot 5008 (10 on) 1.6 HDi (115bhp) Allure 5d For Sale - Palmers Peugeot Hemel Hempstead, HEMEL HEMPSTEAD" src="http://1.1.1.3/bmi/images.parkers.bauercdn.com/external/cfs/usedcfs-534644542362618/-1656331427/200x150/1.jpg" />
+							</a>
+					</div>
+					<div class="column small-6">
+						<span class="for-sale-carousel__item__mileage">47,503 miles</span>
+						<span class="for-sale-carousel__item__price">only <strong>&#163;10,490</strong></span>
+						<a class="for-sale-carousel__item__link" href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42362618" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42362618"}'>
+							View details
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="for-sale-carousel__item">
+				<h3 class="for-sale-carousel__item__heading">
+					<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42122374" target="_blank" data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42122374"}'>Peugeot 5008 Estate</a>
+					<span class="for-sale-carousel__item__heading__derivative">1.6 e-HDi (115bhp) Allure 5d EGC</span>
+				</h3>
+				<div class="row">
+					<div class="column small-6">
+							<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42122374" class="cfs-result-item__image th" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42122374"}'>
+								<img alt="Peugeot 5008 (10 on) 1.6 e-HDi (115bhp) Allure 5d EGC For Sale - Perrys Nelson Peugeot, NELSON" src="http://1.1.1.3/bmi/images.parkers.bauercdn.com/external/cfs/usedcfs-253164542122374/291798749/200x150/1.jpg" />
+							</a>
+					</div>
+					<div class="column small-6">
+						<span class="for-sale-carousel__item__mileage">22,755 miles</span>
+						<span class="for-sale-carousel__item__price">only <strong>&#163;11,994</strong></span>
+						<a class="for-sale-carousel__item__link" href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42122374" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42122374"}'>
+							View details
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="for-sale-carousel__item">
+				<h3 class="for-sale-carousel__item__heading">
+					<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=43085578" target="_blank" data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 43085578"}'>Peugeot 5008 Estate</a>
+					<span class="for-sale-carousel__item__heading__derivative">1.6 HDi (115bhp) Allure 5d</span>
+				</h3>
+				<div class="row">
+					<div class="column small-6">
+							<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=43085578" class="cfs-result-item__image th" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 43085578"}'>
+								<img alt="Peugeot 5008 (10 on) 1.6 HDi (115bhp) Allure 5d For Sale - Bristol Street Motors Peugeot Oxford, OXFORD" src="http://1.1.1.4/bmi/images.parkers.bauercdn.com/external/cfs/usedcfs-260884543085578/-1169053254/200x150/1.jpg" />
+							</a>
+					</div>
+					<div class="column small-6">
+						<span class="for-sale-carousel__item__mileage">15,014 miles</span>
+						<span class="for-sale-carousel__item__price">only <strong>&#163;13,995</strong></span>
+						<a class="for-sale-carousel__item__link" href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=43085578" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 43085578"}'>
+							View details
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="for-sale-carousel__item">
+				<h3 class="for-sale-carousel__item__heading">
+					<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42850805" target="_blank" data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42850805"}'>Peugeot 5008 Estate</a>
+					<span class="for-sale-carousel__item__heading__derivative">2.0 HDi (150bhp) Allure 5d</span>
+				</h3>
+				<div class="row">
+					<div class="column small-6">
+							<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42850805" class="cfs-result-item__image th" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42850805"}'>
+								<img alt="Peugeot 5008 (10 on) 2.0 HDi (150bhp) Allure 5d For Sale - Carbase, WESTON SUPER MARE" src="http://1.1.1.3/bmi/images.parkers.bauercdn.com/external/cfs/usedcfs-384664542850805/1455488131/200x150/1.jpg" />
+							</a>
+					</div>
+					<div class="column small-6">
+						<span class="for-sale-carousel__item__mileage">53,978 miles</span>
+						<span class="for-sale-carousel__item__price">only <strong>&#163;10,849</strong></span>
+						<a class="for-sale-carousel__item__link" href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42850805" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42850805"}'>
+							View details
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="for-sale-carousel__item">
+				<h3 class="for-sale-carousel__item__heading">
+					<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42484755" target="_blank" data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42484755"}'>Peugeot 5008 Estate</a>
+					<span class="for-sale-carousel__item__heading__derivative">1.6 HDi (112bhp) Exclusive 5d EGC</span>
+				</h3>
+				<div class="row">
+					<div class="column small-6">
+							<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42484755" class="cfs-result-item__image th" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42484755"}'>
+								<img alt="Peugeot 5008 (10 on) 1.6 HDi (112bhp) Exclusive 5d EGC For Sale - Bristol Street Motors Peugeot Harlow, HARLOW" src="http://1.1.1.4/bmi/images.parkers.bauercdn.com/external/cfs/usedcfs-228074542484755/-285304483/200x150/1.jpg" />
+							</a>
+					</div>
+					<div class="column small-6">
+						<span class="for-sale-carousel__item__mileage">41,000 miles</span>
+						<span class="for-sale-carousel__item__price">only <strong>&#163;7,748</strong></span>
+						<a class="for-sale-carousel__item__link" href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42484755" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42484755"}'>
+							View details
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="for-sale-carousel__item">
+				<h3 class="for-sale-carousel__item__heading">
+					<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42491107" target="_blank" data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42491107"}'>Peugeot 5008 Estate</a>
+					<span class="for-sale-carousel__item__heading__derivative">1.6 e-HDi Active 5d EGC</span>
+				</h3>
+				<div class="row">
+					<div class="column small-6">
+							<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42491107" class="cfs-result-item__image th" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42491107"}'>
+								<img alt="Peugeot 5008 (10 on) 1.6 e-HDi Active 5d EGC For Sale - Carbase, WESTON SUPER MARE" src="http://1.1.1.4/bmi/images.parkers.bauercdn.com/external/cfs/usedcfs-384664542491107/-285304483/200x150/1.jpg" />
+							</a>
+					</div>
+					<div class="column small-6">
+						<span class="for-sale-carousel__item__mileage">49,554 miles</span>
+						<span class="for-sale-carousel__item__price">only <strong>&#163;9,500</strong></span>
+						<a class="for-sale-carousel__item__link" href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42491107" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42491107"}'>
+							View details
+						</a>
+					</div>
+				</div>
+			</div>
+	</div>
+</div>							</div>
+
+							<div class="row">
+								<div class="column">
+									
+	<div class="bottom-ad">
+		<div class="google-ads advert"><ins data-class="adsbygoogle" data-ad-client="pub-0732974847509699" data-ad-channel="7041795055" data-ad-slot="3274749056" data-ad-format="auto"></ins></div>
+	</div>
+
+	<ul class="related-links link-list">
+	</ul>
+								</div>
+							</div>
+						</main>
+						<div class="site-sidebar-right">
+	<div class="site-sidebar-right__inner">
+		<h4 class="show-for-sr">Sidebar Right</h4>
+
+		<div class="site-sidebar-right__sticky-wrapper">
+			<div class="site-sidebar-right__sticky-wrapper__inner">
+				<div class="mpu-ad advert" data-id="mpuAdvert" data-dfp-id="mpu-1"></div>
+			</div>
+		</div>
+
+		
+<div class="google-ads advert"><ins data-class="adsbygoogle" data-ad-client="pub-0732974847509699" data-ad-channel="7041795055" data-ad-slot="3444636299" data-ad-format="rectangle"></ins></div>
+
+<div class="cfs-featured-cars for-sale-carousel-container">
+	<h2 class="cfs-featured-cars__heading">Featured cars for sale</h2>
+	<div class="for-sale-carousel">
+			<div class="for-sale-carousel__item">
+				<h3 class="for-sale-carousel__item__heading">
+					<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42668609" target="_blank" data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42668609"}'>Peugeot 5008 Estate</a>
+					<span class="for-sale-carousel__item__heading__derivative">1.6 HDi (112bhp) Allure 5d</span>
+				</h3>
+				<div class="row">
+					<div class="column small-6">
+							<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42668609" class="cfs-result-item__image th" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42668609"}'>
+								<img alt="Peugeot 5008 (10 on) 1.6 HDi (112bhp) Allure 5d For Sale - Bristol Street Motors Peugeot Harlow, HARLOW" src="http://1.1.1.2/bmi/images.parkers.bauercdn.com/external/cfs/usedcfs-228074542668609/-510685950/200x150/1.jpg" />
+							</a>
+					</div>
+					<div class="column small-6">
+						<span class="for-sale-carousel__item__mileage">34,426 miles</span>
+						<span class="for-sale-carousel__item__price">only <strong>&#163;10,995</strong></span>
+						<a class="for-sale-carousel__item__link" href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42668609" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42668609"}'>
+							View details
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="for-sale-carousel__item">
+				<h3 class="for-sale-carousel__item__heading">
+					<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=43237636" target="_blank" data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 43237636"}'>Peugeot 5008 Estate</a>
+					<span class="for-sale-carousel__item__heading__derivative">2.0 HDi (150bhp) Allure 5d</span>
+				</h3>
+				<div class="row">
+					<div class="column small-6">
+							<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=43237636" class="cfs-result-item__image th" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 43237636"}'>
+								<img alt="Peugeot 5008 (10 on) 2.0 HDi (150bhp) Allure 5d For Sale - The Car People - Sheffield, ROTHERHAM" src="http://1.1.1.3/bmi/images.parkers.bauercdn.com/external/cfs/usedcfs-442994543237636/-760583567/200x150/1.jpg" />
+							</a>
+					</div>
+					<div class="column small-6">
+						<span class="for-sale-carousel__item__mileage">35,729 miles</span>
+						<span class="for-sale-carousel__item__price">only <strong>&#163;11,499</strong></span>
+						<a class="for-sale-carousel__item__link" href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=43237636" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 43237636"}'>
+							View details
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="for-sale-carousel__item">
+				<h3 class="for-sale-carousel__item__heading">
+					<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42656647" target="_blank" data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42656647"}'>Peugeot 5008 Estate</a>
+					<span class="for-sale-carousel__item__heading__derivative">1.6 HDi (112bhp) Active II 5d</span>
+				</h3>
+				<div class="row">
+					<div class="column small-6">
+							<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42656647" class="cfs-result-item__image th" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42656647"}'>
+								<img alt="Peugeot 5008 (10 on) 1.6 HDi (112bhp) Active II 5d For Sale - Buyacar.co.uk, LONDON" src="http://1.1.1.1/bmi/images.parkers.bauercdn.com/external/cfs/usedcfs-641654542656647/-2092681744/200x150/1.jpg" />
+							</a>
+					</div>
+					<div class="column small-6">
+						<span class="for-sale-carousel__item__mileage">38,279 miles</span>
+						<span class="for-sale-carousel__item__price">only <strong>&#163;10,200</strong></span>
+						<a class="for-sale-carousel__item__link" href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42656647" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42656647"}'>
+							View details
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="for-sale-carousel__item">
+				<h3 class="for-sale-carousel__item__heading">
+					<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42743708" target="_blank" data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42743708"}'>Peugeot 5008 Estate</a>
+					<span class="for-sale-carousel__item__heading__derivative">2.0 HDi Active 5d</span>
+				</h3>
+				<div class="row">
+					<div class="column small-6">
+							<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42743708" class="cfs-result-item__image th" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42743708"}'>
+								<img alt="Peugeot 5008 (10 on) 2.0 HDi Active 5d For Sale - Perrys Milton Keynes Peugeot, MILTON KEYNES" src="http://1.1.1.2/bmi/images.parkers.bauercdn.com/external/cfs/usedcfs-121964542743708/1455488131/200x150/1.jpg" />
+							</a>
+					</div>
+					<div class="column small-6">
+						<span class="for-sale-carousel__item__mileage">15,369 miles</span>
+						<span class="for-sale-carousel__item__price">only <strong>&#163;13,250</strong></span>
+						<a class="for-sale-carousel__item__link" href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42743708" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42743708"}'>
+							View details
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="for-sale-carousel__item">
+				<h3 class="for-sale-carousel__item__heading">
+					<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42362618" target="_blank" data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42362618"}'>Peugeot 5008 Estate</a>
+					<span class="for-sale-carousel__item__heading__derivative">1.6 HDi (115bhp) Allure 5d</span>
+				</h3>
+				<div class="row">
+					<div class="column small-6">
+							<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42362618" class="cfs-result-item__image th" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42362618"}'>
+								<img alt="Peugeot 5008 (10 on) 1.6 HDi (115bhp) Allure 5d For Sale - Palmers Peugeot Hemel Hempstead, HEMEL HEMPSTEAD" src="http://1.1.1.3/bmi/images.parkers.bauercdn.com/external/cfs/usedcfs-534644542362618/-1656331427/200x150/1.jpg" />
+							</a>
+					</div>
+					<div class="column small-6">
+						<span class="for-sale-carousel__item__mileage">47,503 miles</span>
+						<span class="for-sale-carousel__item__price">only <strong>&#163;10,490</strong></span>
+						<a class="for-sale-carousel__item__link" href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42362618" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42362618"}'>
+							View details
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="for-sale-carousel__item">
+				<h3 class="for-sale-carousel__item__heading">
+					<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42122374" target="_blank" data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42122374"}'>Peugeot 5008 Estate</a>
+					<span class="for-sale-carousel__item__heading__derivative">1.6 e-HDi (115bhp) Allure 5d EGC</span>
+				</h3>
+				<div class="row">
+					<div class="column small-6">
+							<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42122374" class="cfs-result-item__image th" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42122374"}'>
+								<img alt="Peugeot 5008 (10 on) 1.6 e-HDi (115bhp) Allure 5d EGC For Sale - Perrys Nelson Peugeot, NELSON" src="http://1.1.1.3/bmi/images.parkers.bauercdn.com/external/cfs/usedcfs-253164542122374/291798749/200x150/1.jpg" />
+							</a>
+					</div>
+					<div class="column small-6">
+						<span class="for-sale-carousel__item__mileage">22,755 miles</span>
+						<span class="for-sale-carousel__item__price">only <strong>&#163;11,994</strong></span>
+						<a class="for-sale-carousel__item__link" href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42122374" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42122374"}'>
+							View details
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="for-sale-carousel__item">
+				<h3 class="for-sale-carousel__item__heading">
+					<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=43085578" target="_blank" data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 43085578"}'>Peugeot 5008 Estate</a>
+					<span class="for-sale-carousel__item__heading__derivative">1.6 HDi (115bhp) Allure 5d</span>
+				</h3>
+				<div class="row">
+					<div class="column small-6">
+							<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=43085578" class="cfs-result-item__image th" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 43085578"}'>
+								<img alt="Peugeot 5008 (10 on) 1.6 HDi (115bhp) Allure 5d For Sale - Bristol Street Motors Peugeot Oxford, OXFORD" src="http://1.1.1.4/bmi/images.parkers.bauercdn.com/external/cfs/usedcfs-260884543085578/-1169053254/200x150/1.jpg" />
+							</a>
+					</div>
+					<div class="column small-6">
+						<span class="for-sale-carousel__item__mileage">15,014 miles</span>
+						<span class="for-sale-carousel__item__price">only <strong>&#163;13,995</strong></span>
+						<a class="for-sale-carousel__item__link" href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=43085578" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 43085578"}'>
+							View details
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="for-sale-carousel__item">
+				<h3 class="for-sale-carousel__item__heading">
+					<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42850805" target="_blank" data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42850805"}'>Peugeot 5008 Estate</a>
+					<span class="for-sale-carousel__item__heading__derivative">2.0 HDi (150bhp) Allure 5d</span>
+				</h3>
+				<div class="row">
+					<div class="column small-6">
+							<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42850805" class="cfs-result-item__image th" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42850805"}'>
+								<img alt="Peugeot 5008 (10 on) 2.0 HDi (150bhp) Allure 5d For Sale - Carbase, WESTON SUPER MARE" src="http://1.1.1.3/bmi/images.parkers.bauercdn.com/external/cfs/usedcfs-384664542850805/1455488131/200x150/1.jpg" />
+							</a>
+					</div>
+					<div class="column small-6">
+						<span class="for-sale-carousel__item__mileage">53,978 miles</span>
+						<span class="for-sale-carousel__item__price">only <strong>&#163;10,849</strong></span>
+						<a class="for-sale-carousel__item__link" href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42850805" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42850805"}'>
+							View details
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="for-sale-carousel__item">
+				<h3 class="for-sale-carousel__item__heading">
+					<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42484755" target="_blank" data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42484755"}'>Peugeot 5008 Estate</a>
+					<span class="for-sale-carousel__item__heading__derivative">1.6 HDi (112bhp) Exclusive 5d EGC</span>
+				</h3>
+				<div class="row">
+					<div class="column small-6">
+							<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42484755" class="cfs-result-item__image th" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42484755"}'>
+								<img alt="Peugeot 5008 (10 on) 1.6 HDi (112bhp) Exclusive 5d EGC For Sale - Bristol Street Motors Peugeot Harlow, HARLOW" src="http://1.1.1.4/bmi/images.parkers.bauercdn.com/external/cfs/usedcfs-228074542484755/-285304483/200x150/1.jpg" />
+							</a>
+					</div>
+					<div class="column small-6">
+						<span class="for-sale-carousel__item__mileage">41,000 miles</span>
+						<span class="for-sale-carousel__item__price">only <strong>&#163;7,748</strong></span>
+						<a class="for-sale-carousel__item__link" href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42484755" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42484755"}'>
+							View details
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="for-sale-carousel__item">
+				<h3 class="for-sale-carousel__item__heading">
+					<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42491107" target="_blank" data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42491107"}'>Peugeot 5008 Estate</a>
+					<span class="for-sale-carousel__item__heading__derivative">1.6 e-HDi Active 5d EGC</span>
+				</h3>
+				<div class="row">
+					<div class="column small-6">
+							<a href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42491107" class="cfs-result-item__image th" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42491107"}'>
+								<img alt="Peugeot 5008 (10 on) 1.6 e-HDi Active 5d EGC For Sale - Carbase, WESTON SUPER MARE" src="http://1.1.1.4/bmi/images.parkers.bauercdn.com/external/cfs/usedcfs-384664542491107/-285304483/200x150/1.jpg" />
+							</a>
+					</div>
+					<div class="column small-6">
+						<span class="for-sale-carousel__item__mileage">49,554 miles</span>
+						<span class="for-sale-carousel__item__price">only <strong>&#163;9,500</strong></span>
+						<a class="for-sale-carousel__item__link" href="http://www.motors.co.uk/redirect?referringSite=motorscouknetwork_parkers&amp;vehicleId=42491107" target="_blank"  data-ga-track='{"category":"ForSaleLinks","action":"Car","label":"www.motors.co.uk | 42491107"}'>
+							View details
+						</a>
+					</div>
+				</div>
+			</div>
+	</div>
+</div>
+		<div class="site-sidebar-right__sticky-wrapper2">
+			<div class="site-sidebar-right__sticky-wrapper2__inner">
+				<div class="mpu-ad advert" data-id="mpu2Advert" data-dfp-id="mpu-2"></div>
+
+<div class="model-chooser">
+	<h2 class="model-chooser__heading">Choose a different car:</h2>
+		<div class="quick-find"
+		data-jsx="quick-find-model"
+		data-color="green"
+		data-hide-optional-text="true"
+		data-vehicle-type="cars"
+		data-filter-name="specs"
+		data-show-range="true"
+		data-show-model="true"
+		data-manufacturer-key="peugeot"
+		data-range-key="5008"
+		data-model-key=""></div>
+
+</div>
+				<div class="site-sidebar-right__social-links">
+					<h2 class="site-sidebar-right__sub-heading">Keep in touch with Parkers:</h2>
+					<ul class="social-nav">
+    <li class="social-nav__item">
+        <a href="http://www.facebook.com/ParkersCarBuying" class="social-nav__link--facebook social-nav__link" target="_blank">
+            <span class="fi-social-facebook"></span>
+        </a>
+    </li>
+    <li class="social-nav__item">
+        <a href="http://www.twitter.com/ParkersNews" class="social-nav__link--twitter social-nav__link" target="_blank">
+            <span class="fi-social-twitter"></span>
+        </a>
+    </li>
+    <li class="social-nav__item">
+        <a href="http://www.youtube.com/user/ParkersTV" class="social-nav__link--you-tube social-nav__link" target="_blank">
+            <span class="fi-social-youtube"></span>
+        </a>
+    </li>
+    <li class="social-nav__item">
+        <a href="/contact-us/" class="social-nav__link--mail social-nav__link">
+            <span class="fi-mail"></span>
+        </a>
+    </li>
+</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+					</div>
+				</div>
+
+				<footer class="site-footer" aria-label="Site Footer">
+	<div class="row">
+		<div class="column small-12 large-4 large-push-8 hide-for-xlarge-up">
+			<ul class="social-nav">
+    <li class="social-nav__item">
+        <a href="http://www.facebook.com/ParkersCarBuying" class="social-nav__link--facebook social-nav__link" target="_blank">
+            <span class="fi-social-facebook"></span>
+        </a>
+    </li>
+    <li class="social-nav__item">
+        <a href="http://www.twitter.com/ParkersNews" class="social-nav__link--twitter social-nav__link" target="_blank">
+            <span class="fi-social-twitter"></span>
+        </a>
+    </li>
+    <li class="social-nav__item">
+        <a href="http://www.youtube.com/user/ParkersTV" class="social-nav__link--you-tube social-nav__link" target="_blank">
+            <span class="fi-social-youtube"></span>
+        </a>
+    </li>
+    <li class="social-nav__item">
+        <a href="/contact-us/" class="social-nav__link--mail social-nav__link">
+            <span class="fi-mail"></span>
+        </a>
+    </li>
+</ul>
+		</div>
+		<div class="column small-12 large-8 large-pull-4 xlarge-12 xlarge-pull-0">
+			<a href="http://www.bauermedia.co.uk" target="_blank" class="site-footer__bauer-logo">
+				<img src="http://1.1.1.3/bmi/static.bauercdn.com/Common/Logos/bauer.52x52.png" alt="Bauer Media logo" class="bauer" />
+			</a>
+
+            <ul class="footer-nav">
+    <li class="footer-nav__item">
+        <a href="/sitemap/" class="footer-nav__link">Sitemap</a>
+    </li>
+    <li class="footer-nav__item">
+        <a href="/contact-us/" class="footer-nav__link">Contact us</a>
+    </li>
+    <li class="footer-nav__item">
+        <a href="/advertise-with-us/" class="footer-nav__link">Advertise with us</a>
+    </li>
+    <li class="footer-nav__item">
+        <a target="_blank" href="http://www.bauerdatapromise.co.uk/" class="footer-nav__link">Privacy &amp; cookie policy</a>
+    </li>
+    <li class="footer-nav__item">
+        <a href="/terms-and-conditions/" class="footer-nav__link">Terms of use</a>
+    </li>
+    <li class="footer-nav__item">
+        <a target="_blank" href="http://www.bauermediacomplaints.co.uk/" class="footer-nav__link">Complaints Policy</a>
+    </li>
+</ul>
+
+			<p class="site-footer__copyright">
+				&copy; 1972-2016&nbsp;&nbsp;Bauer Consumer Media Limited
+			</p>
+			<p class="site-footer__company-info">
+				Registered in England &amp; Wales (company no. 01176085) at Media House, Peterborough Business Park, Peterborough, PE2 6EA<br />
+				Bauer Consumer Media Limited are authorised and regulated by the Financial Conduct Authority (reference no. 710067)
+			</p>
+		</div>
+	</div>
+</footer>
+			</div>
+
+			<div class="back-to-top__wrapper">
+				<div class="back-to-top__wrapper__inner">
+					<a href="#" class="back-to-top">
+						<span class="back-to-top__icon icon-16x16-back-to-top"></span>
+						<span class="back-to-top__label">Back to top</span>
+					</a>
+				</div>
+			</div>
+
+			<div class="overlay-ad advert" data-id="overlayAdvert" data-dfp-id="overlay"></div>
+
+
+
+<aside class="off-canvas-menu-mobile right-off-canvas-menu">
+	<header class="off-canvas-menu-mobile__header">
+		<h4 class="show-for-sr">Primary Navigation Mobile</h4>
+        <a href="#" class="off-canvas-menu-mobile__header__close-link right-off-canvas-toggle">
+            <span class="icon icon-gap-right fi-x"></span>Close menu
+        </a>
+		<div class="site-search-mobile site-search" role="search" aria-label="Site Search - Mobile">
+<form action="http://www.parkers.co.uk/search/" method="get" class="site-search__form">
+	<div class="row collapse">
+		<div class="column small-10">
+			<label for="siteSearchMobile" class="show-for-sr">Site search:</label>
+			<input id="siteSearchMobile" type="search" name="query" placeholder="Search site ..." class="site-search-mobile__input site-search__input" />
+		</div>
+		<div class="column small-2">
+			<input type="submit" value="Go" class="site-search-mobile__button site-search__button button postfix" />
+		</div>
+	</div>
+</form>
+		</div>
+		<ul class="off-canvas-menu-mobile__tabs" role="tablist" data-tab="">
+			<li class="off-canvas-menu-mobile__tab__title tab-title active">
+				<a href="#carsMenu" class="off-canvas-menu-mobile__tab__link--cars off-canvas-menu-mobile__tab__link" role="tab" aria-controls="carsMenu" aria-selected="true">
+					<span class="off-canvas-menu-mobile__tab__link__icon icon-50x50-car-white"></span>
+					<span class="off-canvas-menu-mobile__tab__link__label">Cars</span>
+				</a>
+			</li>
+			<li class="off-canvas-menu-mobile__tab__title tab-title">
+				<a href="#vansMenu" class="off-canvas-menu-mobile__tab__link--vans off-canvas-menu-mobile__tab__link" role="tab" aria-controls="vansMenu" aria-selected="false">
+					<span class="off-canvas-menu-mobile__tab__link__icon icon-50x50-van-white"></span>
+					<span class="off-canvas-menu-mobile__tab__link__label">Vans</span>
+				</a>
+			</li>
+			<li class="off-canvas-menu-mobile__tab__title tab-title">
+				<a href="#myParkersMenu" class="off-canvas-menu-mobile__tab__link--my-parkers off-canvas-menu-mobile__tab__link" role="tab" aria-controls="myParkersMenu" aria-selected="false">
+					<span class="off-canvas-menu-mobile__tab__link__icon icon-50x50-driver-white"></span>
+					<span class="off-canvas-menu-mobile__tab__link__label">My parkers</span>
+				</a>
+			</li>
+		</ul>
+	</header>
+
+	<div class="off-canvas-menu-mobile__tabs-content tabs-content">
+		<div id="carsMenu" class="primary-nav-mobile off-canvas-menu-mobile__tab-content tab-content active" role="tabpanel" aria-expanded="true">
+			<nav aria-label="Primary Navigation Mobile - Cars">
+				<h2 class="show-for-sr">Primary Navigation Mobile &ndash; Cars</h2>
+<ul class="primary-nav-mobile__menu off-canvas-list">
+		<li class="primary-nav-mobile__menu__item">
+			<a href="/car-reviews/" class="primary-nav-mobile__menu__link primary-nav-mobile__menu__link--has-sub-menu" target="" >Reviews</a>
+				<ul class="primary-nav-mobile__sub-menu stack">
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="/car-reviews/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;New car reviews</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="/car-reviews/used/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Used car reviews</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="/owner-reviews/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Owners reviews</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/reviews/living-with-it/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Long term tests</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="/car-specs/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Facts and figures</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/reviews/road-tests/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Road tests</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/advice/top-10s/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Best cars</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/advice/coming-soon/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Cars coming soon</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/reviews/car-info-packs/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Car info packs</a>
+						</li>
+				</ul>
+		</li>
+		<li class="primary-nav-mobile__menu__item">
+			<a href="/car-specs/" class="primary-nav-mobile__menu__link " target="" >Specs</a>
+		</li>
+		<li class="primary-nav-mobile__menu__item">
+			<a href="http://www.parkers.co.uk/cars/prices/" class="primary-nav-mobile__menu__link primary-nav-mobile__menu__link--has-sub-menu" target="" >Valuations</a>
+				<ul class="primary-nav-mobile__sub-menu stack">
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/prices/used/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Used car valuations</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/prices/new/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;New car prices</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/prices/iphone-application/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Parkers iPhone app</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/prices/car-price-guide/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Parkers price guide</a>
+						</li>
+				</ul>
+		</li>
+		<li class="primary-nav-mobile__menu__item">
+			<a href="/cars-for-sale/" class="primary-nav-mobile__menu__link primary-nav-mobile__menu__link--has-sub-menu" target="" >For Sale</a>
+				<ul class="primary-nav-mobile__sub-menu stack">
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="/cars-for-sale/new/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;New cars for Sale</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="/cars-for-sale/used/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Used cars for Sale</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/for-sale/car-deals/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Best car deals</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="https://parkers.hpicheck.com/" class="primary-nav-mobile__sub-menu__link" target="_blank"  rel=nofollow>&ndash;&nbsp;&nbsp;Car history check</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="https://secure.parkers.co.uk/cars/for-sale/sell-my-car/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Sell my car</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/leasing/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Car leasing</a>
+						</li>
+				</ul>
+		</li>
+		<li class="primary-nav-mobile__menu__item">
+			<a href="http://www.parkers.co.uk/cars/reviews/compare-cars/" class="primary-nav-mobile__menu__link primary-nav-mobile__menu__link--has-sub-menu" target="" >Buying tools</a>
+				<ul class="primary-nav-mobile__sub-menu stack">
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/reviews/compare-cars/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Car comparison</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="https://parkers.hpicheck.com/" class="primary-nav-mobile__sub-menu__link" target=""  rel=nofollow>&ndash;&nbsp;&nbsp;Car history check</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/insurance/car-insurance-groups/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Insurance groups</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/company-cars/tax-calculator/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Company car tax calculator</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/advice/road-tax-guide/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Car tax calculator</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/prices/iphone-application/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;iPhone app</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="/motormatch/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;MotorMatch</a>
+						</li>
+				</ul>
+		</li>
+		<li class="primary-nav-mobile__menu__item">
+			<a href="http://www.parkers.co.uk/cars/finance/" class="primary-nav-mobile__menu__link primary-nav-mobile__menu__link--has-sub-menu" target="" >Finance</a>
+				<ul class="primary-nav-mobile__sub-menu stack">
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/finance/car-finance-advice/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Car finance advice</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="https://partner.creditplus.co.uk/?src=parkers" class="primary-nav-mobile__sub-menu__link" target=""  rel=nofollow>&ndash;&nbsp;&nbsp;Get finance quote</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/finance/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Business car finance</a>
+						</li>
+				</ul>
+		</li>
+		<li class="primary-nav-mobile__menu__item">
+			<a href="http://www.parkers.co.uk/cars/leasing/" class="primary-nav-mobile__menu__link primary-nav-mobile__menu__link--has-sub-menu" target="" >Leasing</a>
+				<ul class="primary-nav-mobile__sub-menu stack">
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/leasing/search/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Personal car leasing</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/leasing/search/_/lease-type/business/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Business car leasing</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/advice/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Help &amp; advice</a>
+						</li>
+				</ul>
+		</li>
+		<li class="primary-nav-mobile__menu__item">
+			<a href="http://www.parkers.co.uk/cars/insurance/" class="primary-nav-mobile__menu__link primary-nav-mobile__menu__link--has-sub-menu" target="" >Insurance</a>
+				<ul class="primary-nav-mobile__sub-menu stack">
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/insurance/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Compare car insurance</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/advice/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Help &amp; advice</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/insurance/car-insurance-groups/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Insurance groups</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/insurance/warranty/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Car warranty</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/insurance/gap-insurance/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Gap insurance</a>
+						</li>
+				</ul>
+		</li>
+		<li class="primary-nav-mobile__menu__item">
+			<a href="http://www.parkers.co.uk/cars/advice/" class="primary-nav-mobile__menu__link primary-nav-mobile__menu__link--has-sub-menu" target="" >Advice</a>
+				<ul class="primary-nav-mobile__sub-menu stack">
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/advice/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;General advice</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/advice/top-10s/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Best cars</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/advice/buying/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Car buying</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/cars/advice/road-tax-guide/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Car tax calculator</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="/cars/finance/car-finance-advice/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Car finance advice</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/company-cars/news-and-advice/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Company cars advice</a>
+						</li>
+				</ul>
+		</li>
+		<li class="primary-nav-mobile__menu__item">
+			<a href="http://www.parkers.co.uk/company-cars/" class="primary-nav-mobile__menu__link primary-nav-mobile__menu__link--has-sub-menu" target="" >Company cars</a>
+				<ul class="primary-nav-mobile__sub-menu stack">
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/company-cars/news-and-advice/latest-news/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;News</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/company-cars/news-and-advice/advice/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Advice</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/company-cars/news-and-advice/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Best company cars</a>
+						</li>
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/company-cars/news-and-advice/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;Tax advice</a>
+						</li>
+				</ul>
+		</li>
+		<li class="primary-nav-mobile__menu__item">
+			<a href="http://winit.parkers.co.uk/" class="primary-nav-mobile__menu__link " target="" >Win</a>
+		</li>
+</ul>			</nav>
+		</div>
+		<div id="vansMenu" class="primary-nav-mobile off-canvas-menu-mobile__tab-content tab-content" role="tabpanel" aria-expanded="false">
+			<nav aria-label="Primary Navigation Mobile - Vans">
+				<h2 class="show-for-sr">Primary Navigation Mobile &ndash; Vans</h2>
+<ul class="primary-nav-mobile__menu off-canvas-list">
+		<li class="primary-nav-mobile__menu__item">
+			<a href="http://www.parkers.co.uk/vans/reviews/" class="primary-nav-mobile__menu__link primary-nav-mobile__menu__link--has-sub-menu" target="" >Van reviews</a>
+				<ul class="primary-nav-mobile__sub-menu stack">
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/vans/reviews/new-van-reviews/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;New van reviews</a>
+						</li>
+				</ul>
+		</li>
+		<li class="primary-nav-mobile__menu__item">
+			<a href="http://www.parkers.co.uk/vans/prices/" class="primary-nav-mobile__menu__link primary-nav-mobile__menu__link--has-sub-menu" target="" >Van prices</a>
+				<ul class="primary-nav-mobile__sub-menu stack">
+						<li class="primary-nav-mobile__sub-menu__item">
+							<a href="http://www.parkers.co.uk/vans/prices/" class="primary-nav-mobile__sub-menu__link" target="" >&ndash;&nbsp;&nbsp;New van prices</a>
+						</li>
+				</ul>
+		</li>
+</ul>			</nav>
+		</div>
+		<div id="myParkersMenu" class="primary-nav-mobile off-canvas-menu-mobile__tab-content tab-content" role="tabpanel" aria-expanded="false">
+			<nav aria-label="Primary Navigation Mobile - My Parkers">
+				<h2 class="show-for-sr">Primary Navigation Mobile &ndash; My Parkers</h2>
+<ul class="primary-nav-mobile__menu off-canvas-list">
+		<li class="primary-nav-mobile__menu__item">
+			<a href="https://secure.parkers.co.uk/my-parkers/login/" class="primary-nav-mobile__menu__link " target="" >Login</a>
+		</li>
+		<li class="primary-nav-mobile__menu__item">
+			<a href="https://secure.parkers.co.uk/my-parkers/register/" class="primary-nav-mobile__menu__link " target="" >Register</a>
+		</li>
+</ul>			</nav>
+		</div>
+	</div>
+</aside>
+			<a class="exit-off-canvas exit-off-canvas--mobile"></a>
+		</div>
+	</div>
+
+	<div id="betaModal" class="reveal-modal" data-reveal aria-hidden="true" role="dialog">
+		<h2>Parkers beta preview</h2>
+		<p class="lead">You are viewing the Parkers beta preview.</p>
+		<p><a class="beta-message__exit-link">No thanks - take me to Parkers.co.uk</a></p>
+		<a class="close-reveal-modal" aria-label="Close">&#215;</a>
+	</div>
+</body>
+</html>
